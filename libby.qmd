@@ -1,0 +1,118 @@
+---
+title: "Extracting E-book Annotations"
+author: ""
+format:
+  revealjs:
+    incremental: true
+    theme: dark
+    reference-location: document
+    logo: ""
+    footer: "rob"
+    toc: true
+    toc-depth: 1
+    toc-title: "Overview"
+    slide-number: h.v
+    controls: true
+  html:
+    embed-resources: true
+---
+
+# Get Library Card
+
+## [Burlingame](https://www.burlingame.org/library/)  {background-image="img\bgame_library.jpg"}
+
+
+::: {.notes}
+Burlingame Public Library
+:::
+
+
+##  [D.C.](https://www.dclibrary.org) {background-image="\img\dc_central_library.jpg"}
+
+:::{.notes}
+DC Central Library
+:::
+
+
+##  [L.A.](https://www.lapl.org) {background-image="\img\la_library.jpg"}
+## [Ypsilanti](https://www.ypsilibrary.org) {background-image=\img\ypsilanti_library.jpeg}
+
+
+# Borrow E-book
+
+## Steps
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](img\Libby_icon_+_wordmark_V.svg){.absolute width="250" top="150" left="100"}
+:::
+
+::: {.column width="50%"}
+- Download Libby.
+- Enter library card number.
+- Borrow book.
+- Annotate/highlight.
+:::
+
+::::
+
+# Annotate
+
+## Highlighting Strategies
+
+:::{.nonincremental}
+-  <mark>Facts (yellow)</mark>
+-  <mark style="background: blue!important">Names (blue)</mark>
+-  <mark style="background: green!important">Definitions (green)</mark>
+-  <mark style="background: pink!important">Follow up (pink)</mark>
+:::
+
+## Noise
+
+![](img\noise_page.jpeg)
+
+# Export
+
+## Export Reading Data
+
+![](img\export_reading_data.jpeg)
+
+## Manage Library
+
+![](img\manage_library.jpeg)
+
+# Reference Manager
+
+## Citation Reference Managers 
+
+:::{.nonincremental}
+- [Mendeley](https://www.mendeley.com/reference-management/reference-manager/)
+- [EndNote](http://endnote.com)
+- [Zotero](https://www.zotero.org)
+:::
+
+## Zotero Landing Page
+
+![](img\zotero_landing.png){.r-stretch}
+
+## Zotero Connector
+
+![](img\zotero_connector.jpeg){.r-stretch}
+
+## Zotero Index
+
+![](img\zotero_view.png){.r-stretch}
+
+## Word Zotero Tab
+
+![](img\word_zotero_tab.jpg)
+
+
+
+# Research Network Graphs
+
+
+## Research Rabbit
+
+![](img\network_graph.jpg)
