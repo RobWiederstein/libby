@@ -27,15 +27,16 @@ Burlingame Public Library
 :::
 
 
-##  [D.C.](https://www.dclibrary.org) {background-image="\img\dc_central_library.jpg"}
+##  [D.C.](https://www.dclibrary.org) {background-image="img\dc_central_library.jpg"}
 
 :::{.notes}
 DC Central Library
 :::
 
 
-##  [L.A.](https://www.lapl.org) {background-image="\img\la_library.jpg"}
-## [Ypsilanti](https://www.ypsilibrary.org) {background-image=\img\ypsilanti_library.jpeg}
+##  [L.A.](https://www.lapl.org) {background-image="img\la_library.jpg"}
+
+## [Ypsilanti](https://www.ypsilibrary.org) {background-image=img\ypsilanti_library.jpg}
 
 
 # Borrow E-book
