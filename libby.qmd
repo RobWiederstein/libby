@@ -33,7 +33,6 @@ Burlingame Public Library
 DC Central Library
 :::
 
-
 ##  [L.A.](https://www.lapl.org) {background-image="img\la_library.jpg"}
 
 ## [Ypsilanti](https://www.ypsilibrary.org) {background-image=img\ypsilanti_library.jpg}
