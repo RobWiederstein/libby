@@ -37,10 +37,9 @@ DC Central Library
 
 ## Ypsilanti {background-image="\img\ypsilanti_library.jpg"}
 
-## Some Slide 1
+## Some Slide 1 {background-image="https://picsum.photos/200/300"}
 
 ## Some Slide 2
-
 
 # Borrow E-book
 
