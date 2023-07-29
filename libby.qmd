@@ -19,7 +19,7 @@ format:
 
 # Get Library Card
 
-## [Burlingame](https://www.burlingame.org/library/)  {background-image="img\bgame_library.jpg"}
+## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg"}
 
 
 ::: {.notes}
@@ -27,22 +27,15 @@ Burlingame Public Library
 :::
 
 
-##  [D.C.](https://www.dclibrary.org) {background-image="img\dc_central_library.jpg"}
+##  [D.C.](https://www.dclibrary.org) {background-image="https://github.com/RobWiederstein/libby/blob/main/img/dc_central_library.jpg"}
 
 :::{.notes}
 DC Central Library
 :::
 
-##  [L.A.](https://www.lapl.org) {background-image="img\la_library.jpg"}
+##  [L.A.](https://www.lapl.org) {background-image="https://github.com/RobWiederstein/libby/blob/main/img/la_library.jpg"}
 
-## Ypsilanti    {background-image="\img\ypsilanti_library.jpg"}
-
-## Some Slide 1 {background-image="https://picsum.photos/200/300"}
-
-## {background-color="aquamarine"}
-
-(A slide with no title)
-
+## Ypsilanti    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg"}
 
 # Borrow E-book
 
