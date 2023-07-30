@@ -19,7 +19,7 @@ format:
 
 # Get Library Card
 
-## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg"}
+## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg?raw=true"}
 
 
 ::: {.notes}
