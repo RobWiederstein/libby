@@ -13,6 +13,8 @@ format:
     toc-title: "Overview"
     slide-number: h.v
     controls: true
+    multiplex: true
+    chalkboard: true
   html:
     embed-resources: true
 ---
@@ -35,12 +37,11 @@ DC Central Library
 
 ##  [L.A.](https://www.lapl.org) {background-image="https://github.com/RobWiederstein/libby/blob/main/img/la_library.jpg?raw=true"}
 
-## Ypsilanti    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg?raw=true"}
+## [Ypsilanti](https://www.ypsilibrary.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg?raw=true"}
 
 # Borrow E-book
 
 ## Steps
-
 
 :::: {.columns}
 
@@ -78,9 +79,34 @@ DC Central Library
 
 ![](img\export_reading_data.jpeg)
 
-## Manage Library
+## Actions
 
 ![](img\manage_library.jpeg)
+
+## Data Export
+
+![](img/libby_export_highlights.jpeg)
+
+## CSV Highlights
+
+```{r}
+#| echo = T
+noise <- read.csv(
+    file = "data-raw/2023-07-30_noise_highlights.csv",
+    stringsAsFactors = F
+    )
+noise[1:5, 1:5]
+```
+## Noise Quote
+
+```{r something}
+#| echo: true
+
+library(tidyverse)
+noise |> 
+    select(quote) |> 
+    filter(grepl("MSE", quote))
+```
 
 # Reference Manager
 
