@@ -39,6 +39,8 @@ DC Central Library
 
 ## [Ypsilanti](https://www.ypsilibrary.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg?raw=true"}
 
+## {background-image="https://github.com/RobWiederstein/libby/blob/main/img/library_card.jpg?raw=true"}
+
 # Borrow E-book
 
 ## Steps
