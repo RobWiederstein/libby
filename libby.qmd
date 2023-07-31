@@ -149,5 +149,13 @@ noise |>
 
 # Conclusion
 
-## Slide Title
+To preserve your reading efforts:
 
+- Your public library is a valuable resource.
+- The Libby app allows for exporting of annotations.
+- Choose a highlighting strategy.
+- Export and play with your data.
+
+## GitHub
+
+<iframe src="https://rob-wiederstein.shinyapps.io/my_books/" height="605" width="1200" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
