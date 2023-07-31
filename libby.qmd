@@ -144,4 +144,8 @@ noise |>
 
 # Conclusion
 
-## GitHub Repo {background-iframe="https://github.com/RobWiederstein/libby"}
+## Slide Title
+
+```{=html}
+<iframe width="780" height="500" src="https://github.com/RobWiederstein/libby" title="Webpage example"></iframe>
+```
