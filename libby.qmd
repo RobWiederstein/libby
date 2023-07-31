@@ -89,7 +89,7 @@ DC Central Library
 
 ![](img/libby_export_highlights.jpeg)
 
-## CSV Highlights
+## Highlights as CSV
 
 ```{r}
 #| echo = T
@@ -99,6 +99,7 @@ noise <- read.csv(
     )
 noise[1:5, 1:5]
 ```
+
 ## Noise Quote
 
 ```{r something}
@@ -109,6 +110,10 @@ noise |>
     select(quote) |> 
     filter(grepl("MSE", quote))
 ```
+
+## Application
+
+<iframe src="https://rob-wiederstein.shinyapps.io/my_books/" height="605" width="1200" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
 
 # Reference Manager
 
