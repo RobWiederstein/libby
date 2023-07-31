@@ -6,7 +6,7 @@ format:
     incremental: true
     theme: dark
     reference-location: document
-    logo: ""
+    logo: "/img/github-mark.svg"
     footer: "rob"
     toc: true
     toc-depth: 1
@@ -146,6 +146,3 @@ noise |>
 
 ## Slide Title
 
-```{=html}
-<iframe width="780" height="500" src="https://github.com/RobWiederstein/libby" title="Webpage example"></iframe>
-```
