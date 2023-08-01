@@ -115,6 +115,8 @@ noise |>
 
 <iframe src="https://rob-wiederstein.shinyapps.io/my_books/" height="605" width="1200" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
 
+## Kindle
+
 # Reference Manager
 
 ## Citation Reference Managers 
@@ -143,18 +145,27 @@ noise |>
 
 # Research Network Graphs
 
+## Kahneman
+
+![](img\kahneman_google_scholar.png)
+
+::: {.notes}
+The h-index is an author-level metric that measures both the productivity and citation impact of the publications, initially used for an individual scientist or scholar. The h-index correlates with success indicators such as winning the Nobel Prize, being accepted for research fellowships and holding positions at top universities. i10-Index = the number of publications with at least 10 citations. Only used by google scholar.
+:::
+
 ## Research Rabbit
 
 ![](img\network_graph.jpg)
 
 # Conclusion
 
-To preserve your reading efforts:
-
-- Your public library is a valuable resource.
-- The Libby app allows for exporting of annotations.
-- Choose a highlighting strategy.
-- Export and play with your data.
+- Be deliberate, especially in non-fiction.
+- Explore the local library.
+- Try Libby.
+- Highlight freely and with discipline.
+- Export, if you like.
+- Organize via  a citation manager.
+- Verify research.
 
 ## GitHub
 
