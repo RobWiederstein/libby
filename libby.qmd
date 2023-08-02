@@ -1,5 +1,5 @@
 ---
-title: "Extracting E-book Annotations"
+title: "Research with Electronic Books"
 author: ""
 format:
   revealjs:
@@ -13,7 +13,7 @@ format:
     toc-title: "Overview"
     slide-number: h.v
     controls: true
-    multiplex: true
+    multiplex: false
     chalkboard: true
   html:
     embed-resources: true
@@ -39,7 +39,6 @@ DC Central Library
 
 ## [Ypsilanti](https://www.ypsilibrary.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg?raw=true"}
 
-## {background-image="https://github.com/RobWiederstein/libby/blob/main/img/library_card.jpg?raw=true"}
 
 # Borrow E-book
 
@@ -60,7 +59,12 @@ DC Central Library
 
 ::::
 
-# Annotate
+## Download Libby
+
+![](img\libby_reading_app.png)
+
+## Library Card {background-image="https://github.com/RobWiederstein/libby/blob/main/img/library_card.jpg?raw=true"}
+
 
 ## Highlighting Strategies
 
@@ -71,9 +75,13 @@ DC Central Library
 -  <mark style="background: pink!important">Follow up (pink)</mark>
 :::
 
-## Noise
+## Noise: A Flaw in Human Judgment
 
 ![](img\noise_page.jpeg)
+
+:::{.notes}
+From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psychologist and economist notable for his work on the psychology of judgment and decision-making, as well as behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences (shared with Vernon L. Smith). His empirical findings challenge the assumption of human rationality prevailing in modern economic theory.
+:::
 
 # Export
 
@@ -137,13 +145,50 @@ noise |>
 
 ## Zotero Index
 
-![](img\zotero_view.png){.r-stretch}
+![](img\zotero_noise_info.png){.r-stretch}
 
-## Word Zotero Tab
+## Export Collection
 
-![](img\word_zotero_tab.jpg)
+```{r eval=FALSE, echo=TRUE}
+@book{kahneman2021,
+	title = {Noise: {A} {Flaw} in {Human} {Judgment}},
+	isbn = {978-0-316-45138-3},
+	shorttitle = {Noise},
+	language = {en},
+	publisher = {Little, Brown},
+	author = {Kahneman, Daniel and Sibony, Olivier and Sunstein, Cass R.},
+	month = may,
+	year = {2021},
+	note = {Google-Books-ID: fhIBEAAAQBAJ},
+	keywords = {Business \& Economics / Decision-Making \& Problem Solving, Psychology / Applied Psychology, Psychology / Cognitive Psychology \& Cognition, Psychology / Social Psychology, Social Science / Sociology / Social Theory},
+}
 
-# Research Network Graphs
+```
+
+## Zotero Word Tab
+
+![](img\zotero_word_add_cite.png)
+
+## Zotero Word Add Cite
+
+![](img\zotero_word_insert_cite.png)
+
+## Zotero Word Bibliography
+
+![](img\zotero_word_bibliography.png)
+
+# Scientometrics
+
+:::{.notes}
+is the quantiative study of science. It is the science of science. It is the study of how science develops and grows.
+:::
+
+## Select Findings
+
+- Being physically close to collaborators makes your work better.
+- Impactful papers can be measured by number of citations.
+- High-impact results are more likely to occur in teams.
+- Nicer people are more creative, successful, and likely to win Nobel prize.
 
 ## Kahneman
 
@@ -151,6 +196,7 @@ noise |>
 
 ::: {.notes}
 The h-index is an author-level metric that measures both the productivity and citation impact of the publications, initially used for an individual scientist or scholar. The h-index correlates with success indicators such as winning the Nobel Prize, being accepted for research fellowships and holding positions at top universities. i10-Index = the number of publications with at least 10 citations. Only used by google scholar.
+Kahneman was ranked by [webometrics](https://www.webometrics.info/en/hlargerthan100) 675th of google scholars having a rank greater than 100 in 2020.
 :::
 
 ## Research Rabbit

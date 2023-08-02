@@ -10,7 +10,7 @@
   <meta name="generator" content="quarto-1.2.269">
 
   <meta name="author" content="">
-  <title>Extracting E-book Annotations</title>
+  <title>Research with Electronic Books</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -390,7 +390,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Extracting E-book Annotations</h1>
+  <h1 class="title">Research with Electronic Books</h1>
 
 <div class="quarto-title-authors">
 </div>
@@ -401,10 +401,9 @@
 <ul>
 <li class="fragment"><a href="#/get-library-card" id="/toc-get-library-card">Get Library Card</a></li>
 <li class="fragment"><a href="#/borrow-e-book" id="/toc-borrow-e-book">Borrow E-book</a></li>
-<li class="fragment"><a href="#/annotate" id="/toc-annotate">Annotate</a></li>
 <li class="fragment"><a href="#/export" id="/toc-export">Export</a></li>
 <li class="fragment"><a href="#/reference-manager" id="/toc-reference-manager">Reference Manager</a></li>
-<li class="fragment"><a href="#/research-network-graphs" id="/toc-research-network-graphs">Research Network Graphs</a></li>
+<li class="fragment"><a href="#/scientometrics" id="/toc-scientometrics">Scientometrics</a></li>
 <li class="fragment"><a href="#/conclusion" id="/toc-conclusion">Conclusion</a></li>
 </ul>
 </nav>
@@ -451,9 +450,6 @@
 </section>
 <section id="ypsilanti" class="slide level2" data-background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg?raw=true">
 <h2><a href="https://www.ypsilibrary.org/">Ypsilanti</a></h2>
-</section>
-<section id="section" class="slide level2" data-background-image="https://github.com/RobWiederstein/libby/blob/main/img/library_card.jpg?raw=true">
-<h2></h2>
 </section></section>
 <section>
 <section id="borrow-e-book" class="title-slide slide level1 center">
@@ -474,11 +470,13 @@
 </ul>
 </div>
 </div>
-</section></section>
-<section>
-<section id="annotate" class="title-slide slide level1 center">
-<h1>Annotate</h1>
+</section>
+<section id="download-libby" class="slide level2">
+<h2>Download Libby</h2>
 
+<img data-src="img\libby_reading_app.png" class="r-stretch"></section>
+<section id="library-card" class="slide level2" data-background-image="https://github.com/RobWiederstein/libby/blob/main/img/library_card.jpg?raw=true">
+<h2>Library Card</h2>
 </section>
 <section id="highlighting-strategies" class="slide level2">
 <h2>Highlighting Strategies</h2>
@@ -491,10 +489,23 @@
 </ul>
 </div>
 </section>
-<section id="noise" class="slide level2">
-<h2>Noise</h2>
+<section id="noise-a-flaw-in-human-judgment" class="slide level2">
+<h2>Noise: A Flaw in Human Judgment</h2>
 
-<img data-src="img\noise_page.jpeg" class="r-stretch"></section></section>
+<img data-src="img\noise_page.jpeg" class="r-stretch"><aside class="notes">
+<p>From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psychologist and economist notable for his work on the psychology of judgment and decision-making, as well as behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences (shared with Vernon L. Smith). His empirical findings challenge the assumption of human rationality prevailing in modern economic theory.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
 <section>
 <section id="export" class="title-slide slide level1 center">
 <h1>Export</h1>
@@ -584,22 +595,68 @@
 </section>
 <section id="zotero-index" class="slide level2">
 <h2>Zotero Index</h2>
-<img data-src="img\zotero_view.png" class="r-stretch">
+<img data-src="img\zotero_noise_info.png" class="r-stretch">
 </section>
-<section id="word-zotero-tab" class="slide level2">
-<h2>Word Zotero Tab</h2>
+<section id="export-collection" class="slide level2">
+<h2>Export Collection</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a><span class="sc">@</span>book{kahneman2021,</span>
+<span id="cb5-2"><a href="#cb5-2"></a>    title <span class="ot">=</span> {Noise<span class="sc">:</span> {A} {Flaw} <span class="cf">in</span> {Human} {Judgment}},</span>
+<span id="cb5-3"><a href="#cb5-3"></a>    isbn <span class="ot">=</span> {<span class="dv">978-0-316-45138-3</span>},</span>
+<span id="cb5-4"><a href="#cb5-4"></a>    shorttitle <span class="ot">=</span> {Noise},</span>
+<span id="cb5-5"><a href="#cb5-5"></a>    language <span class="ot">=</span> {en},</span>
+<span id="cb5-6"><a href="#cb5-6"></a>    publisher <span class="ot">=</span> {Little, Brown},</span>
+<span id="cb5-7"><a href="#cb5-7"></a>    author <span class="ot">=</span> {Kahneman, Daniel and Sibony, Olivier and Sunstein, Cass R.},</span>
+<span id="cb5-8"><a href="#cb5-8"></a>    month <span class="ot">=</span> may,</span>
+<span id="cb5-9"><a href="#cb5-9"></a>    year <span class="ot">=</span> {<span class="dv">2021</span>},</span>
+<span id="cb5-10"><a href="#cb5-10"></a>    note <span class="ot">=</span> {Google<span class="sc">-</span>Books<span class="sc">-</span>ID<span class="sc">:</span> fhIBEAAAQBAJ},</span>
+<span id="cb5-11"><a href="#cb5-11"></a>    keywords <span class="ot">=</span> {Business \<span class="sc">&amp;</span> Economics <span class="sc">/</span> Decision<span class="sc">-</span>Making \<span class="sc">&amp;</span> Problem Solving, Psychology <span class="sc">/</span> Applied Psychology, Psychology <span class="sc">/</span> Cognitive Psychology \<span class="sc">&amp;</span> Cognition, Psychology <span class="sc">/</span> Social Psychology, Social Science <span class="sc">/</span> Sociology <span class="sc">/</span> Social Theory},</span>
+<span id="cb5-12"><a href="#cb5-12"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="zotero-word-tab" class="slide level2">
+<h2>Zotero Word Tab</h2>
 
-<img data-src="img\word_zotero_tab.jpg" class="r-stretch"></section></section>
+<img data-src="img\zotero_word_add_cite.png" class="r-stretch"></section>
+<section id="zotero-word-add-cite" class="slide level2">
+<h2>Zotero Word Add Cite</h2>
+
+<img data-src="img\zotero_word_insert_cite.png" class="r-stretch"></section>
+<section id="zotero-word-bibliography" class="slide level2">
+<h2>Zotero Word Bibliography</h2>
+
+<img data-src="img\zotero_word_bibliography.png" class="r-stretch"></section></section>
 <section>
-<section id="research-network-graphs" class="title-slide slide level1 center">
-<h1>Research Network Graphs</h1>
-
+<section id="scientometrics" class="title-slide slide level1 center">
+<h1>Scientometrics</h1>
+<aside class="notes">
+<p>is the quantiative study of science. It is the science of science. It is the study of how science develops and grows.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="select-findings" class="slide level2">
+<h2>Select Findings</h2>
+<ul>
+<li class="fragment">Being physically close to collaborators makes your work better.</li>
+<li class="fragment">Impactful papers can be measured by number of citations.</li>
+<li class="fragment">High-impact results are more likely to occur in teams.</li>
+<li class="fragment">Nicer people are more creative, successful, and likely to win Nobel prize.</li>
+</ul>
 </section>
 <section id="kahneman" class="slide level2">
 <h2>Kahneman</h2>
 
 <img data-src="img\kahneman_google_scholar.png" class="r-stretch"><aside class="notes">
-<p>The h-index is an author-level metric that measures both the productivity and citation impact of the publications, initially used for an individual scientist or scholar. The h-index correlates with success indicators such as winning the Nobel Prize, being accepted for research fellowships and holding positions at top universities. i10-Index = the number of publications with at least 10 citations. Only used by google scholar.</p>
+<p>The h-index is an author-level metric that measures both the productivity and citation impact of the publications, initially used for an individual scientist or scholar. The h-index correlates with success indicators such as winning the Nobel Prize, being accepted for research fellowships and holding positions at top universities. i10-Index = the number of publications with at least 10 citations. Only used by google scholar. Kahneman was ranked by <a href="https://www.webometrics.info/en/hlargerthan100">webometrics</a> 675th of google scholars having a rank greater than 100 in 2020.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -652,8 +709,6 @@
   <script src="libby_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="libby_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
   <script src="libby_files/libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="libby_files/libs/revealjs/plugin/multiplex/socket.io.js"></script>
-  <script src="libby_files/libs/revealjs/plugin/multiplex/multiplex.js"></script>
   <script src="libby_files/libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -677,7 +732,6 @@
 'autoAnimateUnmatched': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
-'multiplex': {"secret":null,"id":"d5e7ebf93fb04aae","url":"https://reveal-multiplex.glitch.me/"},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -851,7 +905,7 @@
         plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
 
           RevealMath,
-          
+          RevealNotes,
           RevealSearch,
           RevealZoom
         ]
