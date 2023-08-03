@@ -37,7 +37,9 @@ DC Central Library
 
 ##  [L.A.](https://www.lapl.org) {background-image="https://github.com/RobWiederstein/libby/blob/main/img/la_library.jpg?raw=true"}
 
-## [Ypsilanti](https://www.ypsilibrary.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg?raw=true"}
+## [Ypsilanti](https://www.bpl.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/boston_library.jpg?raw=true"}
+
+## [Boston]()
 
 
 # Borrow E-book
@@ -69,10 +71,15 @@ DC Central Library
 ## Highlighting Strategies
 
 :::{.nonincremental}
--  <mark>Facts (yellow)</mark>
--  <mark style="background: blue!important">Names (blue)</mark>
--  <mark style="background: green!important">Definitions (green)</mark>
--  <mark style="background: pink!important">Follow up (pink)</mark>
+
+<br>
+
+| Non-Fiction             | Fiction                       |
+|:------------------------|:------------------------------|
+|<mark>Facts (yellow)</mark>| <mark>Places (yellow)</mark>|
+|<mark style="background: blue!important">Names (blue)</mark> | <mark style="background: blue!important">Characters (blue)</mark> |
+|<mark style="background: green!important">Terms (green)</mark>|<mark style="background: green!important">Dates (green)</mark>|
+|<mark style="background: pink!important">Follow up (pink)</mark>| |
 :::
 
 ## Noise: A Flaw in Human Judgment
@@ -202,6 +209,14 @@ Kahneman was ranked by [webometrics](https://www.webometrics.info/en/hlargerthan
 ## Research Rabbit
 
 ![](img\network_graph.jpg)
+
+## Prospect Theory Network Graph
+
+![](img\kahneman_prospect_theory.png){fig-align="center"}
+
+## Prospect Theory Timeline
+
+![](img\kahneman_prospect_theory_timeline.png){fig-align="center"}
 
 # Conclusion
 
