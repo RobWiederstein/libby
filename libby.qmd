@@ -37,9 +37,9 @@ DC Central Library
 
 ##  [L.A.](https://www.lapl.org) {background-image="https://github.com/RobWiederstein/libby/blob/main/img/la_library.jpg?raw=true"}
 
-## [Ypsilanti](https://www.bpl.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/boston_library.jpg?raw=true"}
+## [Ypsilanti](https://www.ypsilibrary.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg?raw=true"}
 
-## [Boston]()
+## [Boston](https://www.bpl.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/boston_library.jpg?raw=true"}
 
 
 # Borrow E-book
