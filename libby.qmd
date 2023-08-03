@@ -19,7 +19,11 @@ format:
     embed-resources: true
 ---
 
-# Get Library Card
+# Visit the Library
+
+## Library Impact
+
+insert basic stats
 
 ## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg?raw=true"}
 
@@ -41,6 +45,9 @@ DC Central Library
 
 ## [Boston](https://www.bpl.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/boston_library.jpg?raw=true"}
 
+## E-books versus Hard Copy
+
+insert graph
 
 # Borrow E-book
 
@@ -208,7 +215,7 @@ Kahneman was ranked by [webometrics](https://www.webometrics.info/en/hlargerthan
 
 ## Research Rabbit
 
-![](img\network_graph.jpg)
+![](img\research_rabbit.jpg)
 
 ## Prospect Theory Network Graph
 
