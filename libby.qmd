@@ -11,7 +11,7 @@ format:
     theme: dark
     reference-location: document
     logo: ""
-    footer: <a href="https://www.google.com">MIT License</a>
+    footer: <a href="https://github.com/RobWiederstein/libby/blob/main/LICENSE.md">MIT License 2023</a>
     toc: true
     toc-depth: 1
     toc-title: "Overview"
