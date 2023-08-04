@@ -1,6 +1,6 @@
 ---
-title: "Research with Electronic Books"
-author: ""
+title: "Research with E-books"
+author: "Rob Wiederstein"
 bibliography: ebooks.bib
 csl: ieee.csl
 nocite: |
@@ -12,9 +12,6 @@ format:
     reference-location: document
     logo: ""
     footer: <a href="https://github.com/RobWiederstein/libby/blob/main/LICENSE.md">MIT License 2023</a>
-    toc: true
-    toc-depth: 1
-    toc-title: "Overview"
     slide-number: true
     controls: true
     multiplex: false
@@ -22,6 +19,15 @@ format:
   html:
     embed-resources: true
 ---
+
+# Overview
+
+- Find Library
+- Load E-book
+- Export Highlights
+- Track Citations
+- Judge Influence
+- Conclusion
 
 # Find Library
 
