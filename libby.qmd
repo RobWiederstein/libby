@@ -1,17 +1,21 @@
 ---
 title: "Research with Electronic Books"
 author: ""
+bibliography: ebooks.bib
+csl: ieee.csl
+nocite: |
+  @*
 format:
   revealjs:
     incremental: true
     theme: dark
     reference-location: document
-    logo: "/img/github-mark.svg"
-    footer: "rob"
+    logo: ""
+    footer: <a href="https://www.google.com">MIT License</a>
     toc: true
     toc-depth: 1
     toc-title: "Overview"
-    slide-number: h.v
+    slide-number: true
     controls: true
     multiplex: false
     chalkboard: true
@@ -19,11 +23,21 @@ format:
     embed-resources: true
 ---
 
-# Visit the Library
+# Find Library
 
 ## Library Impact
 
-insert basic stats
+<br>
+
+| Indicator          | Value            |
+|--------------------|------------------|
+| Total Libraries:   | 9,159            |
+| Total Staff:       | 139,818          |
+| Total Revenue:     | $14.5 b.         |
+| Total Visits:      | 730 m.           |
+| Total Patrons:     | 170 m.           |
+| Total Circulation: | 2.5 b.           |
+
 
 ## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg?raw=true"}
 
@@ -47,9 +61,9 @@ DC Central Library
 
 ## E-books versus Hard Copy
 
-insert graph
+![](img\us_library_collections.png)
 
-# Borrow E-book
+# Load E-book
 
 ## Steps
 
@@ -89,15 +103,19 @@ insert graph
 |<mark style="background: pink!important">Follow up (pink)</mark>| |
 :::
 
-## Noise: A Flaw in Human Judgment
+## Noise: A Flaw in Human Judgment[@kahneman2021]
 
-![](img\noise_page.jpeg)
+::: {layout="[[-1], [1], [-1]]"}
+
+![](img\medicine_is_noisy.jpg)
+
+:::
 
 :::{.notes}
 From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psychologist and economist notable for his work on the psychology of judgment and decision-making, as well as behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences (shared with Vernon L. Smith). His empirical findings challenge the assumption of human rationality prevailing in modern economic theory.
 :::
 
-# Export
+# Export Highlights
 
 ## Export Reading Data
 
@@ -116,7 +134,7 @@ From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psyc
 ```{r}
 #| echo = T
 noise <- read.csv(
-    file = "data-raw/2023-07-30_noise_highlights.csv",
+    file = "./data-raw/2023-08-02_noise_highlights.csv",
     stringsAsFactors = F
     )
 noise[1:5, 1:5]
@@ -130,7 +148,7 @@ noise[1:5, 1:5]
 library(tidyverse)
 noise |> 
     select(quote) |> 
-    filter(grepl("MSE", quote))
+    filter(grepl("pneumonia", quote))
 ```
 
 ## Application
@@ -139,7 +157,7 @@ noise |>
 
 ## Kindle
 
-# Reference Manager
+# Track Citations
 
 ## Citation Reference Managers 
 
@@ -189,20 +207,20 @@ noise |>
 
 ## Zotero Word Bibliography
 
-![](img\zotero_word_bibliography.png)
+![](img\zotero_word_bib.png)
 
-# Scientometrics
+# Judge Influence
 
 :::{.notes}
-is the quantiative study of science. It is the science of science. It is the study of how science develops and grows.
+Scientometrics is the quantiative study of science. It is the study of how science develops and grows.
 :::
 
-## Select Findings
+## Scientometrics - Select Findings
 
 - Being physically close to collaborators makes your work better.
 - Impactful papers can be measured by number of citations.
 - High-impact results are more likely to occur in teams.
-- Nicer people are more creative, successful, and likely to win Nobel prize.
+- Nicer people are more creative, successful, and likely to win the Nobel prize.[@arbesman2013]
 
 ## Kahneman
 
@@ -235,6 +253,13 @@ Kahneman was ranked by [webometrics](https://www.webometrics.info/en/hlargerthan
 - Organize via  a citation manager.
 - Verify research.
 
-## GitHub
+
+# Bibliography
+
+::: {#refs}
+:::
+
+# Repository
 
 [![](img/github_libby_repo.png)](https://github.com/RobWiederstein/libby)
+

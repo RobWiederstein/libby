@@ -1,0 +1,273 @@
+timestamp,chapter,percent,color,quote
+"August 01, 2023 23:49",Introduction: Two Kinds of Error,2.4%,#FFB,"Faced with the same patient, different doctors make different judgments about whether patients have skin cancer, breast cancer, heart disease, tuberculosis, pneumonia, depression, and a host of other conditions. Noise is especially high in psychiatry, where subjective judgment is obviously important. However, considerable noise is also found in areas where it might not be expected, such as in the reading of X-rays."
+"July 22, 2023 20:45",5. Measuring Error,14.7%,#FFB,"It is average error, which is the distance between the peak of the bell curve and the true value. In panel B, this average error has not changed from the original situation—it is still high, at 10%,"
+"July 22, 2023 20:44",5. Measuring Error,13.8%,#FFB,For
+"February 09, 2023 02:20",Part VI: Optimal Noise,71.6%,#FFB,are seven major objections to efforts to reduce or eliminate noise
+"February 06, 2023 01:14",19. Debiasing and Decision Hygiene,53.0%,#FFB,One such tool is a checklist of the biases they are attempting to detect
+"February 06, 2023 01:13",19. Debiasing and Decision Hygiene,52.8%,#FFB,"Informal experiments suggest, however, that real progress can be made with this approach."
+"February 06, 2023 01:13",19. Debiasing and Decision Hygiene,52.8%,#FFB,the supervisor might also pay close attention to the process by which they are developed and to the team’s dynamics
+"February 06, 2023 01:12",19. Debiasing and Decision Hygiene,52.7%,#FFB,uses a checklist to diagnose whether any biases
+"February 06, 2023 01:11",19. Debiasing and Decision Hygiene,52.7%,#FFB,"For instance, the planning fallacy is a sufficiently robust finding to warrant debiasing interventions against overconfident planning"
+"February 06, 2023 01:11",19. Debiasing and Decision Hygiene,52.7%,#FFB,The Decision Observer
+"February 06, 2023 01:11",19. Debiasing and Decision Hygiene,52.7%,#FFB,"We suggest undertaking this search for biases neither before nor after the decision is made, but in real time."
+"February 06, 2023 01:10",19. Debiasing and Decision Hygiene,52.5%,#FFB,"upshot is that ex post or ex ante debiasing—which, respectively, correct or prevent specific psychological biases—are useful in some situations. These approaches work where the general direction of error is known and manifests itself as a clear statistical bias."
+"February 06, 2023 01:06",19. Debiasing and Decision Hygiene,52.1%,#FFB,"Educating people to overcome their biases is an honorable enterprise, but it is more challenging than it seems"
+"February 06, 2023 01:01",18. Better Judges for Better Judgments,51.6%,#FFB,"But the evidence suggests that if the goal is to reduce error, it is better for leaders (and others) to remain open to counterarguments and to know that they might be wrong"
+"February 06, 2023 00:59",18. Better Judges for Better Judgments,51.4%,#FFB,It is the humility of those who are constantly aware that their judgment is a work in progress and who yearn to be corrected
+"February 06, 2023 00:59",18. Better Judges for Better Judgments,51.4%,#FFB,"you may want to look for the sort of people who actively search for new information that could contradict their prior beliefs, who are methodical in integrating that information into their current perspective"
+"February 06, 2023 00:57",18. Better Judges for Better Judgments,51.2%,#FFB,"People who score well on the Adult Decision Making Competence scale or on the Halpern assessment seem to make better judgments in life: they experience fewer adverse life events driven by bad choices, such as needing to pay late fees for a movie rental and experiencing an unwanted pregnancy."
+"February 06, 2023 00:57",18. Better Judges for Better Judgments,51.2%,#FFB,“actively open-minded thinking
+"February 06, 2023 00:57",18. Better Judges for Better Judgments,51.2%,#FFB,Actively open-minded people agree with statements like this: “Allowing oneself to be convinced by an opposing argument is a sign of good character.” They disagree with the proposition that “changing your mind is a sign of weakness” or that “intuition is the best guide in making decisions.”
+"February 06, 2023 00:54",18. Better Judges for Better Judgments,51.0%,#FFB,"Adult Decision Making Competence scale, which"
+"February 06, 2023 00:54",18. Better Judges for Better Judgments,51.0%,#FFB,"Halpern Critical Thinking Assessment,"
+"February 06, 2023 00:52",18. Better Judges for Better Judgments,50.8%,#FFB,"Lower CRT scores are associated with many real-world judgments and beliefs, including belief in ghosts, astrology, and extrasensory perception"
+"February 06, 2023 00:52",18. Better Judges for Better Judgments,50.8%,#DFC,"reflection test (CRT),"
+"February 06, 2023 00:52",18. Better Judges for Better Judgments,50.8%,#FFB,The CRT is seen by many as one instrument to measure a broader concept: the propensity to use reflective versus impulsive thought processes
+"February 06, 2023 00:50",18. Better Judges for Better Judgments,50.6%,#FFB,"If you must pick people to make judgments, picking those with the highest mental ability makes a lot of sense."
+"February 06, 2023 00:47",18. Better Judges for Better Judgments,50.1%,#FFB,"Intelligence is correlated with good performance in virtually all domains. All other things being equal, it is associated not only with higher academic achievement but also with higher job performance."
+"February 06, 2023 00:43",18. Better Judges for Better Judgments,49.5%,#FFB,"Highly skilled people are less noisy, and they also show less bias."
+"February 06, 2023 00:42",18. Better Judges for Better Judgments,49.4%,#FFB,"both less noisy and less biased when those who make them are well trained, are more intelligent, and have the right cognitive style"
+"February 06, 2023 00:37",Part V: Improving Judgments,48.6%,#FFB,"A sensible way to improve judgments is, of course, to select the best possible human judges."
+"February 06, 2023 00:37",Part V: Improving Judgments,48.6%,#FFB,"asking a designated decision observer to search for diagnostic signs that could indicate, in real time, that a group’s work is being affected by one or several familiar biases"
+"February 06, 2023 00:37",Part V: Improving Judgments,48.6%,#FFB,"We introduce the theme of decision hygiene, the approach we recommend to reduce noise in human judgments."
+"February 05, 2023 23:58",14. The Matching Operation,38.7%,#DFC,matching
+"January 30, 2023 14:14",23. Defining the Scale in Performance Ratings,65.5%,#FFB,"Our aspiration here is not to examine these questions but to make a more modest suggestion: if you do measure performance, your performance ratings have probably been pervaded by system noise and, for that reason, they might be essentially useless and quite possibly counterproductive"
+"January 30, 2023 14:13",23. Defining the Scale in Performance Ratings,65.3%,#FFB,Frame-of-reference training has been known for decades and provides demonstrably less noisy and more accurate ratings
+"January 30, 2023 14:11",23. Defining the Scale in Performance Ratings,65.1%,#FFB,frame-of-reference training
+"January 30, 2023 14:09",23. Defining the Scale in Performance Ratings,65.0%,#FFB,"In 2015, Deloitte calculated that it was spending 2 million hours each year evaluating its sixty-five thousand people."
+"January 30, 2023 14:09",23. Defining the Scale in Performance Ratings,65.0%,#FFB,performance ratings as they are most often practiced demotivate as often as they motivate
+"January 30, 2023 14:09",23. Defining the Scale in Performance Ratings,65.0%,#FFB,"No matter what has been tried over decades to improve [performance management] processes, they continue to generate inaccurate information and do virtually nothing to drive performance"
+"January 30, 2023 14:05",23. Defining the Scale in Performance Ratings,64.4%,#FFB,Yet it often backfires.
+"January 30, 2023 14:02",23. Defining the Scale in Performance Ratings,64.0%,#FFB,"In this case, the reduction of noise may not be worth the cost—a problem that we will discuss in part 6."
+"January 30, 2023 14:02",23. Defining the Scale in Performance Ratings,64.0%,#FFB,creeping ratings inflation.
+"January 30, 2023 14:02",23. Defining the Scale in Performance Ratings,64.0%,#DFC,forced ranking.
+"January 30, 2023 14:02",23. Defining the Scale in Performance Ratings,64.0%,#FFB,"Many companies adopted it, only to abandon it later, citing undesirable side effects on morale and teamwork."
+"January 30, 2023 13:56",23. Defining the Scale in Performance Ratings,63.9%,#FFB,"The rise in popularity of 360-degree feedback coincided with the generalization of fluid, project-based organizations."
+"January 30, 2023 13:56",23. Defining the Scale in Performance Ratings,63.9%,#FFB,Overengineered questionnaires abound (one example involves forty-six ratings on eleven dimensions for each rater and person being rated).
+"January 30, 2023 13:55",23. Defining the Scale in Performance Ratings,63.7%,#FFB,Almost all organizations use the noise-reduction strategy of aggregation
+"January 30, 2023 13:53",23. Defining the Scale in Performance Ratings,63.5%,#FFB,", “the relationship between job performance and ratings of job performance is likely to be weak or at best uncertain.”"
+"January 30, 2023 13:51",23. Defining the Scale in Performance Ratings,63.3%,#FFB,"that is, variance attributable to the person’s performance, accounts for no more than 20 to 30% of the total variance. The rest, 70 to 80% of the variance in the ratings, is system noise."
+"January 30, 2023 13:50",23. Defining the Scale in Performance Ratings,63.1%,#FFB,But most people do not know just how noisy they are.
+"January 30, 2023 13:47",22. Guidelines in Medicine,62.2%,#FFB,found that the likelihood of an agreement between two opinions was just 57%.
+"January 30, 2023 13:42",22. Guidelines in Medicine,61.1%,#FFB,occasion noise
+"January 30, 2023 13:42",22. Guidelines in Medicine,61.1%,#FFB,"In short, doctors are significantly more likely to order cancer screenings early in the morning than late in the afternoon. In"
+"January 30, 2023 13:41",22. Guidelines in Medicine,61.1%,#FFB,1% to 64%
+"January 30, 2023 13:36",22. Guidelines in Medicine,61.8%,#FFB,The Apgar score focuses the health professional on the five that are empirically known to matter. Then
+"January 28, 2023 19:45",25. The Mediating Assessments Protocol,69.0%,#FFB,"Just like a recruiter in an unstructured interview, we are at risk of using all the debate to confirm our first impressions."
+"January 28, 2023 19:40",24. Structure in Hiring,68.1%,#FFB,"The three principles—once more, decomposition, independent assessment on each dimension, and delayed holistic judgment—do not necessarily provide a template for all organizations trying to improve their selection processes. But the principles are broadly consistent with the recommendations that organizational psychologists have formulated"
+"January 28, 2023 19:38",24. Structure in Hiring,67.9%,#FFB,"structured interviews are far more predictive of future performance than are traditional, unstructured ones"
+"January 28, 2023 19:38",24. Structure in Hiring,67.9%,#FFB,"work sample tests,"
+"January 28, 2023 19:38",24. Structure in Hiring,67.9%,#FFB,"do not exclude intuition, but delay it."
+"January 28, 2023 19:36",24. Structure in Hiring,67.7%,#FFB,Perhaps its most visible move was to introduce structured behavioral interviews
+"January 28, 2023 19:33",24. Structure in Hiring,67.3%,#FFB,Work Rules
+"January 28, 2023 19:33",24. Structure in Hiring,67.3%,#FFB, sometimes had candidates suffer through twenty-five interviews
+"January 28, 2023 19:33",24. Structure in Hiring,67.3%,#FFB,"reduce that number to four, as"
+"January 28, 2023 19:33",24. Structure in Hiring,67.3%,#FFB,the company makes sure that the interviewers rate the candidate separately
+"January 28, 2023 19:32",24. Structure in Hiring,67.2%,#FFB,the mechanical approach is superior both in general and in the specific case of work performance prediction
+"January 28, 2023 19:29",24. Structure in Hiring,66.8%,#FFB,Why do first impressions end up driving the outcome of a much longer interview?
+"January 28, 2023 19:29",24. Structure in Hiring,66.8%,#FFB,"Interviewers with positive first impressions, for instance, ask fewer questions and tend to “sell” the company to the candidate."
+"January 28, 2023 19:28",24. Structure in Hiring,66.6%,#FFB,"Most organizations fully expect this variability and, for that reason, require several interviewers to meet the same candidate, with the results aggregated in some way."
+"January 28, 2023 19:28",24. Structure in Hiring,66.6%,#FFB,First impressions turn out to matter—a lot
+"January 28, 2023 19:26",24. Structure in Hiring,66.4%,#FFB,Interviews are also a minefield of psychological biases
+"January 28, 2023 19:26",24. Structure in Hiring,66.4%,#FFB,"For instance, physical appearance plays a large part in the evaluation of candidates, even for positions where it should matter little or not at all"
+"January 28, 2023 19:26",24. Structure in Hiring,66.2%,#FFB,"Yet from the perspective of an organization that invests time and effort in talent selection, the main purpose of interviews is clearly one of selection. And at that task, they are not exactly a terrific success."
+"January 28, 2023 19:24",24. Structure in Hiring,66.1%,#FFB,"In essence, if your goal is to determine which candidates will succeed in a job and which will fail, standard interviews (also called unstructured interviews to distinguish them from structured interviews, to which we will turn shortly) are not very informative. To put it more starkly, they are often useless."
+"January 28, 2023 19:22",22. Guidelines in Medicine,62.8%,#FFB,The medical profession needs more of them.
+"January 28, 2023 19:18",22. Guidelines in Medicine,62.0%,#FFB,Centor score
+"January 28, 2023 19:18",22. Guidelines in Medicine,62.0%,#FFB,"Breast Imaging Reporting and Data System (BI-RADS), which"
+"January 28, 2023 19:16",22. Guidelines in Medicine,61.8%,#FFB,Yet guidelines succeed in reducing noise because they decompose a complex decision into a number of easier subjudgments on predefined dimensions.
+"January 28, 2023 19:15",22. Guidelines in Medicine,61.5%,#FFB,"But our emphasis here will be on human-judgment guidelines, because the domain of medicine helpfully illustrates how they produce good or even excellent results in some applications and more mixed results in others"
+"January 28, 2023 19:14",22. Guidelines in Medicine,61.5%,#FFB,Apgar score
+"January 28, 2023 19:12",22. Guidelines in Medicine,61.3%,#FFB,Another illustration of the role of fatigue among clinicians is the lower rate of appropriate handwashing during the end of hospital shifts
+"January 28, 2023 19:12",22. Guidelines in Medicine,61.3%,#FFB,psychiatry
+"January 28, 2023 19:11",22. Guidelines in Medicine,61.1%,#FFB,"In areas that involve vague criteria and complex judgments, intrarater reliability, as it is called, can be poor."
+"January 28, 2023 19:09",22. Guidelines in Medicine,60.9%,#FFB,"Despite improvements over the decades, studies have continued to find significant variability in diagnosis of TB, with “moderate” or just “fair” interrater agreement"
+"January 28, 2023 19:09",22. Guidelines in Medicine,60.9%,#FFB,melanoma
+"January 28, 2023 19:09",22. Guidelines in Medicine,60.9%,#FFB,"was only 64%, meaning that doctors misdiagnosed melanomas in one of every three lesions"
+"January 28, 2023 19:09",22. Guidelines in Medicine,60.9%,#FFB,radiologists
+"January 28, 2023 19:08",22. Guidelines in Medicine,60.7%,#FFB,Heart disease
+"January 28, 2023 19:08",22. Guidelines in Medicine,60.7%,#FFB,"An early study found that 31% of the time, physicians evaluating angiograms disagreed on whether a major vessel was more than 70% blocked"
+"January 28, 2023 19:08",22. Guidelines in Medicine,60.7%,#FFB,Endometriosis
+"January 28, 2023 19:08",22. Guidelines in Medicine,60.7%,#FFB,Tuberculosis
+"January 28, 2023 18:29",22. Guidelines in Medicine,60.4%,#FFB,"“variation in skill can explain 44% of the variation in diagnostic decisions,” suggesting that “policies that improve skill perform better than uniform decision guidelines.”"
+"January 28, 2023 18:29",22. Guidelines in Medicine,60.4%,#DFC,interrater reliability
+"January 28, 2023 18:29",22. Guidelines in Medicine,60.4%,#DFC,kappa statistic
+"January 28, 2023 18:27",22. Guidelines in Medicine,60.2%,#FFB,Our goals in this chapter are to elaborate that claim and to describe some of the approaches to noise reduction used by the medical profession
+"January 28, 2023 18:27",22. Guidelines in Medicine,60.2%,#FFB,Dartmouth Atlas Project
+"January 28, 2023 18:25",21. Selection and Aggregation in Forecasting,59.6%,#FFB,"Eliciting and aggregating judgments that are both independent and diverse will often be the easiest, cheapest, and most broadly applicable decision hygiene strategy"
+"January 28, 2023 18:24",21. Selection and Aggregation in Forecasting,59.4%,#FFB,"As our discussion of noise in groups has highlighted, group deliberation often adds more error in bias than it removes in noise."
+"January 28, 2023 18:21",21. Selection and Aggregation in Forecasting,59.3%,#FFB,"Whenever possible, you should aim to combine the strategies, by constructing teams of judges (e.g., forecasters, investment professionals, recruiting officers) who are selected for being both good at what they do and complementary to one another."
+"January 28, 2023 18:15",21. Selection and Aggregation in Forecasting,59.1%,#FFB,The surprise is easily explained. Tetlock’s training is designed to fight psychological biases
+"January 28, 2023 18:15",21. Selection and Aggregation in Forecasting,59.1%,#FFB,"As a result, training forecasters to fight their psychological biases works—by reducing noise."
+"January 28, 2023 18:15",21. Selection and Aggregation in Forecasting,59.1%,#FFB,Teaming had a comparably large effect on noise reduction
+"January 28, 2023 18:15",21. Selection and Aggregation in Forecasting,59.1%,#FFB,"When working in groups, the superforecasters seem capable of avoiding the dangers of group polarization and information cascades"
+"January 28, 2023 18:15",21. Selection and Aggregation in Forecasting,59.1%,#FFB,“Teaming—unlike training… allows forecasters to harness the information
+"January 28, 2023 18:15",21. Selection and Aggregation in Forecasting,59.1%,#FFB,Superforecasters are better than others at finding relevant information
+"January 28, 2023 18:14",21. Selection and Aggregation in Forecasting,58.9%,#FFB,"Whenever an intervention boosted accuracy, it worked mainly by suppressing random errors in judgment"
+"January 28, 2023 18:11",21. Selection and Aggregation in Forecasting,58.5%,#FFB,perpetual beta
+"January 28, 2023 18:11",21. Selection and Aggregation in Forecasting,58.5%,#FFB,the degree to which one is committed to belief updating and self-improvement
+"January 28, 2023 18:10",21. Selection and Aggregation in Forecasting,58.3%,#FFB,they break it up into its component parts.
+"January 28, 2023 18:10",21. Selection and Aggregation in Forecasting,58.3%,#FFB,"In short, what distinguishes the superforecasters isn’t their sheer intelligence; it’s how they apply it."
+"January 28, 2023 18:10",21. Selection and Aggregation in Forecasting,58.3%,#FFB,active open-mindedness
+"January 28, 2023 18:08",21. Selection and Aggregation in Forecasting,58.2%,#FFB,But their real advantage is not their talent at math; it is their ease in thinking analytically and probabilistically
+"January 28, 2023 18:06",21. Selection and Aggregation in Forecasting,58.0%,#FFB,"One of the major findings was that the overwhelming majority of the volunteers did poorly, but about 2% stood out"
+"January 28, 2023 18:04",21. Selection and Aggregation in Forecasting,57.8%,#FFB,They gave the participants the opportunity to revise their forecasts continuously in light of new information
+"January 28, 2023 18:04",21. Selection and Aggregation in Forecasting,57.8%,#FFB,Fourth
+"January 28, 2023 18:04",21. Selection and Aggregation in Forecasting,57.8%,#FFB,Brier scores
+"January 28, 2023 18:04",21. Selection and Aggregation in Forecasting,57.8%,#FFB,Good calibration is one requirement for good forecasting.
+"January 28, 2023 18:03",21. Selection and Aggregation in Forecasting,57.6%,#FFB,"First, they used a large number of forecasts,"
+"January 28, 2023 18:03",21. Selection and Aggregation in Forecasting,57.6%,#FFB,"Second, the researchers asked participants to make their forecasts in terms of probabilities that an event would happen"
+"January 28, 2023 18:02",21. Selection and Aggregation in Forecasting,57.4%,#FFB,"Philip Tetlock (whom we encountered in chapter 11 when we discussed his assessment of long-term forecasts of political events); his spouse, Barbara Mellers; and Don Moore teamed up to improve our understanding of forecasting and, in particular, why some people are good at it"
+"January 28, 2023 18:01",21. Selection and Aggregation in Forecasting,57.2%,#FFB,"Much of the time, prediction markets have been found to do very well"
+"January 27, 2023 20:32",21. Selection and Aggregation in Forecasting,57.1%,#FFB,The easiest way to aggregate several forecasts is to average them
+"January 27, 2023 20:32",21. Selection and Aggregation in Forecasting,57.1%,#FFB,"Averaging is mathematically guaranteed to reduce noise: specifically, it divides it by the square root of the number of judgments averaged"
+"January 27, 2023 20:32",21. Selection and Aggregation in Forecasting,57.1%,#FFB,"Because averaging does nothing to reduce bias, its effect on total error (MSE) depends on the proportions of bias and noise in it."
+"January 27, 2023 20:25","13. Heuristics, Biases, and Noise",38.0%,#FFB,"general, we jump to conclusions, then stick to them."
+"January 27, 2023 20:24","13. Heuristics, Biases, and Noise",37.8%,#DFC,halo
+"January 27, 2023 20:24","13. Heuristics, Biases, and Noise",37.8%,#FFB,"The evidence is disputed and mixed. But in a revealing study, consumers were found to be more likely to be affected by calorie labels if they were placed to the left of the food item rather than the right"
+"January 27, 2023 20:24","13. Heuristics, Biases, and Noise",37.8%,#DFC,excessive coherence
+"January 27, 2023 20:22","13. Heuristics, Biases, and Noise",37.4%,#DFC,anchoring
+"January 27, 2023 20:22","13. Heuristics, Biases, and Noise",37.4%,#FFB,Anchoring is an extremely robust effect and is often deliberately used in negotiations.
+"January 27, 2023 20:21","13. Heuristics, Biases, and Noise",37.2%,#DFC,affect heuristic
+"January 27, 2023 20:20","13. Heuristics, Biases, and Noise",37.1%,#DFC,"conclusion bias, or prejudgment"
+"January 27, 2023 20:18","13. Heuristics, Biases, and Noise",36.7%,#DFC,availability heuristic
+"January 27, 2023 20:11","13. Heuristics, Biases, and Noise",35.6%,#DFC,planning fallacy.
+"January 27, 2023 19:57",12. The Valley of the Normal,34.1%,#FFB,This is because the process of understanding reality is backward-looking
+"January 27, 2023 19:53",12. The Valley of the Normal,33.6%,#FFB,"We must, however, remember that while correlation does not imply causation, causation does imply correlation."
+"January 27, 2023 19:22",12. The Valley of the Normal,33.4%,#FFB,"When a finding is described as “significant,” we should not conclude that the effect it describes is a strong one."
+"January 27, 2023 19:22",12. The Valley of the Normal,33.4%,#FFB,"With a sufficiently large sample, a correlation can be at once very “significant” and too small to be worth discussing."
+"January 27, 2023 19:19",12. The Valley of the Normal,33.2%,#FFB,"improvement the AI models delivered over a very simple model was slight, and their predictive accuracy remained disappointingly low"
+"January 27, 2023 19:19",12. The Valley of the Normal,33.2%,#FFB,Aggregate measures are widely known to be both more predictive and more predictable than are measures of single outcomes
+"January 27, 2023 19:19",12. The Valley of the Normal,33.2%,#FFB,"An extensive review of research in social psychology, covering 25,000 studies and involving 8 million subjects over one hundred years, concluded that “social psychological effects typically yield a value of r [correlation coefficient] equal to .21.”"
+"January 27, 2023 19:19",12. The Valley of the Normal,33.2%,#FFB,"Much higher correlations, like the .60 we mentioned earlier between adult height and foot size, are common for physical measurements but are very rare in the social sciences."
+"January 27, 2023 19:18",12. The Valley of the Normal,33.0%,#FFB,"This type of challenge is novel in the social sciences but common in computer science, where teams are often invited to compete in tasks"
+"January 27, 2023 19:16",12. The Valley of the Normal,32.8%,#FFB,"Fragile Families and Child Wellbeing Study,"
+"January 25, 2023 01:16",11. Objective Ignorance,31.2%,#FFB,people who engage in predictive tasks will underestimate their objective ignorance
+"January 25, 2023 01:16",11. Objective Ignorance,31.2%,#FFB,The average expert was roughly as accurate as a dart-throwing chimpanzee.”
+"January 25, 2023 01:16",11. Objective Ignorance,31.2%,#FFB,Overconfidence is one of the best-documented cognitive biases
+"January 25, 2023 01:16",11. Objective Ignorance,31.2%,#FFE0EC,Philip Tetlock
+"January 25, 2023 01:14",11. Objective Ignorance,31.0%,#DFC,intractable uncertainty (what cannot possibly be known
+"January 25, 2023 01:14",11. Objective Ignorance,31.0%,#DFC,imperfect information (what could be known but isn’t)
+"January 25, 2023 01:12",11. Objective Ignorance,30.8%,#FFB,"the field of personnel selection, a recent review found that the performance of human judges does not come close to this number. On average, they achieve a predictive correlation of .28 (PC = 59%)."
+"January 24, 2023 21:28",10. Noiseless Rules,30.1%,#FFB,but we can strive to emulate the simplicity and noiselessness of simple models. To
+"January 24, 2023 21:28",10. Noiseless Rules,30.1%,#FFB,"More often, people are willing to give an algorithm a chance but stop trusting it as soon as they see that it makes mistakes"
+"January 24, 2023 21:27",10. Noiseless Rules,29.9%,#FFB,"In a 1996 article, Meehl and a coauthor listed (and rebutted) no fewer than seventeen types of objections that psychiatrists, physicians, judges, and other professionals had to mechanical judgment"
+"January 24, 2023 21:26",10. Noiseless Rules,29.7%,#FFB,their use remains limited
+"January 24, 2023 21:24",10. Noiseless Rules,29.5%,#FFB,"Bo Cowgill, a professor at Columbia Business School, studied the recruitment of software engineers at a large tech company. Instead of using (human) résumé screeners to select who would get an interview, Cowgill developed a machine-learning algorithm to screen the résumés of candidates and trained it on more than three hundred thousand submissions that the company had received and evaluated"
+"January 24, 2023 21:24",10. Noiseless Rules,29.5%,#FFB,"The algorithm also picked a more diverse group of candidates, in terms of race, gender, and other metrics; it was much more likely to select “nontraditional” candidates, such as those who did not graduate from an elite school, those who lacked prior work experience, and those who did not have a referral"
+"January 24, 2023 21:21",10. Noiseless Rules,29.0%,#FFB,"758,027 bail decisions"
+"January 24, 2023 21:19",10. Noiseless Rules,28.8%,#DFC,broken-leg exceptions
+"January 24, 2023 21:19",10. Noiseless Rules,27.7%,#FFE0EC,More Simplicity
+"January 24, 2023 21:17",10. Noiseless Rules,28.6%,#FFB,The frugal model did better than virtually all human bail judges did in predicting flight risk
+"January 24, 2023 21:17",10. Noiseless Rules,28.6%,#FFB,"The appeal of frugal rules is that they are transparent and easy to apply. Moreover, these advantages are obtained at relatively little cost in accuracy relative to more complex models."
+"January 24, 2023 21:17",10. Noiseless Rules,28.6%,#FFE0EC,More Complexity
+"January 24, 2023 21:16",10. Noiseless Rules,28.4%,#FFB,The example illustrates a general rule: the combination of two or more correlated predictors is barely more predictive than the best of them on its own.
+"January 24, 2023 21:16",10. Noiseless Rules,28.4%,#FFB,"this statistical fact supports the use of frugal approaches to prediction, which use a small number of predictors."
+"January 24, 2023 21:14",10. Noiseless Rules,28.3%,#FFB, it does not require any data you don’t have or any complicated calculations
+"January 24, 2023 21:14",10. Noiseless Rules,28.3%,#FFB,“The whole trick is to decide what variables to look at and then to know how to add.”
+"January 24, 2023 21:12",10. Noiseless Rules,28.1%,#FFB,Equal-weight models do well because they are not susceptible to accidents of sampling.
+"January 24, 2023 21:11",10. Noiseless Rules,27.9%,#FFB,The challenge is that when the formula is applied out of sample
+"January 24, 2023 21:10",10. Noiseless Rules,27.7%,#FFB,—is that all mechanical approaches are noise-free.
+"January 24, 2023 00:17",10. Noiseless Rules,27.5%,#FFB,"And they perform difficult prediction tasks: machine-learning algorithms forecast the decisions of the US Supreme Court, determine which defendants are more likely to jump bail, and assess which calls to child protective services most urgently require a case worker’s visit."
+"January 24, 2023 00:16",9. Judgments and Models,27.2%,#FFB,"In this setting, human judges performed very poorly in absolute terms, which helps explain why even unimpressive linear models outdid them."
+"January 24, 2023 00:10",9. Judgments and Models,26.4%,#FFB,"Decades later, a review of fifty years of research concluded that models of judges consistently outperformed the judges they modeled"
+"January 24, 2023 00:10",9. Judgments and Models,26.4%,#FFB,But you can surely imagine your own dismay if someone told you that a crude model of your judgments—almost a caricature—was actually more accurate than you were
+"January 24, 2023 00:10",9. Judgments and Models,26.4%,#FFB,Complexity and richness do not generally lead to more accurate predictions.
+"January 24, 2023 00:09",9. Judgments and Models,26.2%,#FFB,The model of the judge is not a realistic description of how a judge actually judges.
+"January 24, 2023 00:07",9. Judgments and Models,26.1%,#FFB,The findings support a blunt conclusion: simple models beat humans
+"January 24, 2023 00:06",9. Judgments and Models,25.9%,#FFB,A 2000 review of 136 studies confirmed unambiguously that mechanical aggregation outperforms clinical judgment
+"January 24, 2023 00:05",9. Judgments and Models,25.7%,#FFB,because of a common failure to distinguish between two stages of the prediction task: evaluating cases on the evidence available and predicting actual outcomes.
+"January 24, 2023 00:04",9. Judgments and Models,25.5%,#FFB,He reached the strong conclusion that simple mechanical rules were generally superior to human judgment
+"January 24, 2023 00:03",9. Judgments and Models,25.3%,#FFB,But linear regression models are the most common (they have been called “the workhorse of judgment and decision-making research”).
+"January 23, 2023 23:58",Part III: Noise in Predictive Judgments,24.4%,#DFC,objective ignorance
+"January 23, 2023 23:56",Part III: Noise in Predictive Judgments,24.2%,#DFC,concordant
+"January 23, 2023 23:56",Part III: Noise in Predictive Judgments,24.2%,#FFB,"If you look at two people, first at their head and then at their feet, there is a 71% chance that the taller of the two also has the larger feet"
+"January 23, 2023 23:56",Part III: Noise in Predictive Judgments,24.2%,#DFC,correlation coefficient (r
+"January 23, 2023 23:56",Part III: Noise in Predictive Judgments,24.0%,#DFC,percent
+"January 22, 2023 02:47",8. How Groups Amplify Noise,22.4%,#FFB,Some of the studies we are describing involve informational cascades. Such cascades are pervasive
+"January 22, 2023 02:46",8. How Groups Amplify Noise,22.2%,#FFB,"But independence is a prerequisite for the wisdom of crowds. If people are not making their own judgments and are relying instead on what other people think, crowds might not be so wise after"
+"January 22, 2023 02:43",8. How Groups Amplify Noise,21.7%,#FFB," this reason, otherwise similar groups might end up making very different judgments simply because of who spoke first and initiated the equivalent of early downloads."
+"January 21, 2023 02:25",7. Occasion Noise,19.8%,#FFB,you are not the same person at all times. As your mood 
+"January 21, 2023 02:23",7. Occasion Noise,19.6%,#FFB,"Conversely, eyewitnesses who are exposed to misleading information are better able to disregard it—and to avoid false testimony—when they are in a bad mood."
+"January 21, 2023 02:19",7. Occasion Noise,18.7%,#DFC,the crowd within.
+"December 17, 2022 00:20",7. Occasion Noise,20.2%,#FFB,"Another source of random variability in judgment is the order in which cases are examined. When a person is considering a case, the decisions that immediately"
+"December 17, 2022 00:20",7. Occasion Noise,20.2%,#FFB, behavior reflects a cognitive bias known as the gambler’s fallacy: we tend to underestimate the likelihood that streaks will occur
+"December 17, 2022 00:18",7. Occasion Noise,20.0%,#FFB,"Among the extraneous factors that should not influence professional judgments, but do, are two prime suspects: stress and fatigue"
+"December 17, 2022 00:16",7. Occasion Noise,19.6%,#DFC,bullshit receptivity. (Bullshit has become something of a technical term since Harry
+"December 17, 2022 00:16",7. Occasion Noise,19.6%,#DFC,"book, On Bullshit, in which he distinguished bullshit from other types of misrepresentation.)"
+"December 17, 2022 00:13",7. Occasion Noise,19.4%,#FFB,"Being in a good mood is a mixed blessing, and bad moods have a silver lining. The costs and benefits of different moods are situation-specific."
+"December 17, 2022 00:13",7. Occasion Noise,19.4%,#FFB,"Also, negotiators who shift from a good mood to an angry one during the negotiation often achieve good results—something to remember when you’re facing a stubborn counterpart!"
+"December 17, 2022 00:13",7. Occasion Noise,19.4%,#FFB,People who are in a good mood are more likely to let their biases affect their thinking.
+"December 17, 2022 00:12",7. Occasion Noise,19.1%,#FFB,"if you can get independent opinions from others, do it—this real wisdom of crowds is highly likely to improve your judgment"
+"December 17, 2022 00:12",7. Occasion Noise,19.1%,#FFB,"If you cannot, make the same judgment yourself a second time to create an “inner crowd.” You can do this either after some time has passed—giving yourself distance from your first opinion—or by actively trying to argue against yourself to find another perspective on the problem. Finally, regardless of the type of crowd, unless you have very strong reasons to put more weight on one of the estimates, your best bet is to average them."
+"December 17, 2022 00:12",7. Occasion Noise,18.9%,#DFC,dialectical bootstrapping
+"December 17, 2022 00:11",7. Occasion Noise,18.9%,#FFB,"Sleep on it, and think again in the morning.”"
+"December 17, 2022 00:05",6. The Analysis of Noise,17.6%,#DFC,"Level noise is variability in the average level of judgments by different judges. 
+
+ Pattern noise is variability in judges’ responses to particular cases."
+"December 17, 2022 00:04",6. The Analysis of Noise,17.4%,#DFC,Our name for the variability that is due to transient effects is occasion noise
+"December 17, 2022 00:04",6. The Analysis of Noise,17.4%,#DFC,System noise is undesirable variability in the judgments of the same case by multiple individuals
+"December 02, 2022 11:57",5. Measuring Error,15.2%,#FFB,"A government responding to a health crisis, such as a pandemic, must weigh the pros and cons of various options, but no evaluation is possible without accurate predictions about the likely consequences of each option (including the decision to do nothing)."
+"December 02, 2022 11:55",5. Measuring Error,15.0%,#FFB,The error equation is the intellectual foundation of this book
+"December 02, 2022 11:55",5. Measuring Error,15.0%,#FFB,"It provides the rationale for the goal of reducing system noise in predictive judgments, a goal that is in principle as important as the reduction of statistical bias. ("
+"December 02, 2022 11:53",5. Measuring Error,14.1%,#FFB,"Scientists in diverse disciplines were quick to adopt the least squares method. Over two centuries later, it remains the standard way to evaluate errors wherever achieving accuracy is the goal"
+"December 02, 2022 11:52",5. Measuring Error,13.9%,#FFB,This is a key feature of MSE: squaring gives large errors a far greater weight than it gives small ones.
+"December 02, 2022 11:51",5. Measuring Error,13.8%,#FFB,"Your intuition probably favors the mean, and your intuition is correct. The mean contains more information; it is affected by the size of the numbers, while the median is affected only by their order"
+"December 02, 2022 11:50",5. Measuring Error,13.6%,#DFC,"method of least squares, invented in 1795 by Carl Friedrich Gauss, a famous mathematical"
+"December 02, 2022 11:50",5. Measuring Error,13.6%,#FFB,Gauss proposed a rule for scoring the contribution of individual errors to overall error. His measure of overall error—called mean squared error (MSE)—is the average of the squares of the individual errors of measurement
+"December 02, 2022 11:46",5. Measuring Error,13.0%,#DFC,standard deviation of
+"December 02, 2022 11:46",5. Measuring Error,13.0%,#FFB,two-thirds of the forecasts are contained within one standard deviation on either side of the mean—
+"December 02, 2022 11:45",5. Measuring Error,12.8%,#FFB,"This conclusion rests on a particular approach to the measurement of error, which has a long history and is generally accepted in science and in statistics. In this chapter, we provide an introductory overview of that history and a sketch of the underlying reasoning."
+"December 02, 2022 11:45",5. Measuring Error,12.8%,#FFB,"Amy can see that the forecasts were distributed in the familiar bell-shaped curve, also known as the normal or Gaussian distribution."
+"December 02, 2022 11:39",4. Matters of Judgment,11.9%,#FFB,"For that reason, the boundary between predictive and evaluative judgments is fuzzy and people who make judgments"
+"December 02, 2022 11:38",4. Matters of Judgment,11.9%,#FFB,"Like predictive judgments, evaluative judgments entail an expectation of bounded disagreement"
+"December 02, 2022 11:36",4. Matters of Judgment,11.7%,#FFB,"Scholars of decision-making offer clear advice to resolve this tension: focus on the process, not on the outcome of a single case."
+"December 02, 2022 11:36",4. Matters of Judgment,11.7%,#FFB,"In summary, what people usually claim to strive for in verifiable judgments is a prediction that matches the outcome. What they are effectively trying to achieve, regardless of verifiability, is the internal signal of completion provided by the coherence between the facts of the case and the judgment. And what they should be trying to achieve, normatively speaking, is the judgment process that would produce the best judgment over an ensemble of similar cases"
+"December 02, 2022 11:34",4. Matters of Judgment,11.4%,#FFB,"Verifiability does not change the experience of judgment as it takes place. It does, however, change its evaluation after the fact."
+"December 02, 2022 11:33",4. Matters of Judgment,11.2%,#FFB,"But, by and large, you address a plausible, hypothetical problem in much the same way that you tackle a real one."
+"December 02, 2022 11:28",4. Matters of Judgment,10.3%,#DFC,expectation of bounded disagreement
+"December 02, 2022 00:38",4. Matters of Judgment,10.1%,#FFB,matter of judgment is one with some uncertainty about the answer and where we allow for the possibility that reasonable and competent people might disagree.
+"December 02, 2022 00:37",Part II: Your Mind Is a Measuring Instrument,9.9%,#FFB,"A simple conclusion emerges from these chapters: like a measuring instrument, the human mind is imperfect—it is both biased and noisy. Why, and by how much? Let’s find out."
+"December 02, 2022 00:36",Part II: Your Mind Is a Measuring Instrument,9.7%,#DFC,standard deviation
+"December 02, 2022 00:36",Part II: Your Mind Is a Measuring Instrument,9.7%,#DFC,predictive
+"December 02, 2022 00:34",Part II: Your Mind Is a Measuring Instrument,9.5%,#DFC,Judgment
+"December 02, 2022 00:34",Part II: Your Mind Is a Measuring Instrument,9.5%,#DFC,"Judgment, like measurement, refers both to the mental activity of making a judgment and to its product."
+"December 02, 2022 00:27",3. Singular Decisions,8.3%,#DFC,recurrent decisions
+"December 02, 2022 00:27",3. Singular Decisions,8.3%,#DFC,"Doctors diagnosing patients, judges hearing parole cases, admissions officers reviewing applications, accountants preparing tax forms—these are all examples of recurrent decisions."
+"December 02, 2022 00:27",3. Singular Decisions,8.3%,#FFB,Unwanted variability is easy to define and measure when interchangeable professionals make decisions in similar cases
+"November 29, 2022 03:51",2. A Noisy System,8.1%,#FFB,"judgment, there is noise, and more of it than you think."
+"November 29, 2022 03:51",2. A Noisy System,7.9%,#FFB,Our conclusion is simple: wherever there is
+"November 29, 2022 03:49",2. A Noisy System,7.7%,#FFE0EC,Nathan Kuncel
+"November 29, 2022 03:49",2. A Noisy System,7.7%,#FFE0EC,professor of psychology at the University of Minnesota and a leading researcher on the prediction of performance
+"November 29, 2022 03:48",2. A Noisy System,7.5%,#DFC,naive realism
+"November 29, 2022 03:48",2. A Noisy System,7.5%,#FFB,"We hold a single interpretation of the world around us at any one time, and we normally invest little effort in generating plausible alternatives to it. One interpretation is enough, and we experience it as true"
+"November 29, 2022 03:46",2. A Noisy System,7.3%,#FFB,We came to see that the problem of system noise often goes unrecognized in organizations and that the common inattention to noise is as interesting as its prevalence.
+"November 29, 2022 03:43",2. A Noisy System,7.2%,#FFB,"Median noise, measured in the same way as in the insurance company, was 41"
+"November 29, 2022 03:43",2. A Noisy System,7.2%,#FFB,"frequent misconception about unwanted variability in judgments is that it doesn’t matter, because random errors supposedly cancel one another out."
+"November 29, 2022 03:39",2. A Noisy System,6.6%,#FFB,"By our measure, the median difference in underwriting was 55"
+"November 29, 2022 03:37",2. A Noisy System,6.4%,#FFB,The judgments of underwriters and claims adjusters lend themselves especially well to this exercise because their decisions are based on written information. To
+"November 29, 2022 03:36",2. A Noisy System,6.2%,#FFB,We use the word lottery to emphasize the role of chance in the selection of one underwriter or adjuster.
+"November 29, 2022 03:35",2. A Noisy System,6.1%,#FFB,"In effect, the particular underwriter who will determine a quote is selected by a lottery."
+"November 29, 2022 03:35",2. A Noisy System,6.1%,#FFB,The exact value of the quote has significant consequences for the company
+"November 29, 2022 03:32",1. Crime and Noisy Punishment,5.3%,#FFB,the Supreme Court struck the guidelines down in 2005
+"November 29, 2022 03:32",1. Crime and Noisy Punishment,5.3%,#FFB,"When the guidelines were mandatory, defendants who had been sentenced by a relatively harsh judge were sentenced to 2.8 months longer than if they had been sentenced by an average judge. When the guidelines became merely advisory, the disparity was doubled."
+"November 29, 2022 03:31",1. Crime and Noisy Punishment,5.1%,#FFB,"Nonetheless, several studies, using a variety of methods and focused on a range of historical periods, reach the same conclusion: the guidelines cut the noise"
+"November 29, 2022 03:30",1. Crime and Noisy Punishment,4.8%,#FFB,"In 1984, he succeeded. Responding to the evidence of unjustified variability, Congress enacted the Sentencing Reform Act of 1984."
+"November 29, 2022 03:29",1. Crime and Noisy Punishment,4.2%,#FFB,He also recommended the creation of a commission on sentencing
+"November 29, 2022 03:28",1. Crime and Noisy Punishment,4.0%,#FFB,"In 1973, a famous judge, Marvin Frankel, drew public attention to the problem"
+"November 29, 2022 03:28",1. Crime and Noisy Punishment,4.0%,#FFB,"Frankel could be fierce. And with respect to noise in the criminal justice system, he was outraged"
+"November 29, 2022 03:27",Part I: Finding Noise,3.7%,#FFB,"wherever there is judgment, there is noise—and more of it than you think"
+"November 29, 2022 03:26",Part I: Finding Noise,3.5%,#FFB,"Criminal sentencing has especially high drama, but we are also concerned with the private sector, where the stakes can be large, too. To illustrate the point, we turn in chapter 2 to a large insurance company"
+"November 29, 2022 03:23",Introduction: Two Kinds of Error,2.9%,#FFB,"We explore the key advantage of rules, formulas, and algorithms over humans when it comes to making predictions: contrary to popular belief, it is not so much the superior insight of rules but their noiselessness."
+"November 29, 2022 03:23",Introduction: Two Kinds of Error,2.8%,#FFB, to grant patents are noisy
+"November 29, 2022 03:21",Introduction: Two Kinds of Error,2.6%,#FFB,Asylum decisions are noisy
+"November 29, 2022 03:21",Introduction: Two Kinds of Error,2.6%,#FFB,Personnel decisions are noisy
+"November 29, 2022 03:21",Introduction: Two Kinds of Error,2.6%,#FFB,Bail decisions are noisy.
+"November 29, 2022 03:21",Introduction: Two Kinds of Error,2.6%,#FFB,Forensic science is 
+"November 29, 2022 03:20",Introduction: Two Kinds of Error,2.4%,#FFB,noise is rarely recognized. Bias is the star of the show.
+"November 29, 2022 03:20",Introduction: Two Kinds of Error,2.4%,#FFB,Medicine is noisy
+"November 29, 2022 03:20",Introduction: Two Kinds of Error,2.4%,#FFB,Child custody decisions are noisy
+"November 29, 2022 03:20",Introduction: Two Kinds of Error,2.4%,#FFB,Forecasts are noisy
+"November 29, 2022 03:18",Introduction: Two Kinds of Error,2.2%,#FFB,A general property of noise is that you can recognize and measure it while knowing nothing about the target or bias
+"November 29, 2022 03:18",Introduction: Two Kinds of Error,2.2%,#FFB,"To understand error in judgment, we must understand both bias and noise."
+"November 29, 2022 03:17",Introduction: Two Kinds of Error,2.0%,#FFB,Bias and noise—systematic deviation and random scatter—are different components of error. The targets illustrate the difference.

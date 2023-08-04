@@ -92,6 +92,25 @@
     code span.va { color: #00e0e0; } /* Variable */
     code span.vs { color: #abe338; } /* VerbatimString */
     code span.wa { color: #dcc6e0; } /* Warning */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }
   </style>
   <link rel="stylesheet" href="libby_files/libs/revealjs/dist/theme/quarto.css" id="theme">
   <link href="libby_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -399,23 +418,59 @@
 <nav role="doc-toc"> 
 <h2 id="toc-title">Overview</h2>
 <ul>
-<li class="fragment"><a href="#/visit-the-library" id="/toc-visit-the-library">Visit the Library</a></li>
-<li class="fragment"><a href="#/borrow-e-book" id="/toc-borrow-e-book">Borrow E-book</a></li>
-<li class="fragment"><a href="#/export" id="/toc-export">Export</a></li>
-<li class="fragment"><a href="#/reference-manager" id="/toc-reference-manager">Reference Manager</a></li>
-<li class="fragment"><a href="#/scientometrics" id="/toc-scientometrics">Scientometrics</a></li>
+<li class="fragment"><a href="#/find-library" id="/toc-find-library">Find Library</a></li>
+<li class="fragment"><a href="#/load-e-book" id="/toc-load-e-book">Load E-book</a></li>
+<li class="fragment"><a href="#/export-highlights" id="/toc-export-highlights">Export Highlights</a></li>
+<li class="fragment"><a href="#/track-citations" id="/toc-track-citations">Track Citations</a></li>
+<li class="fragment"><a href="#/judge-influence" id="/toc-judge-influence">Judge Influence</a></li>
 <li class="fragment"><a href="#/conclusion" id="/toc-conclusion">Conclusion</a></li>
+<li class="fragment"><a href="#/bibliography" id="/toc-bibliography">Bibliography</a></li>
+<li class="fragment"><a href="#/repository" id="/toc-repository">Repository</a></li>
 </ul>
 </nav>
 </section>
 <section>
-<section id="visit-the-library" class="title-slide slide level1 center">
-<h1>Visit the Library</h1>
+<section id="find-library" class="title-slide slide level1 center">
+<h1>Find Library</h1>
 
 </section>
 <section id="library-impact" class="slide level2">
 <h2>Library Impact</h2>
-<p>insert basic stats</p>
+<p><br></p>
+<table>
+<thead>
+<tr class="header">
+<th>Indicator</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Total Libraries:</td>
+<td>9,159</td>
+</tr>
+<tr class="even">
+<td>Total Staff:</td>
+<td>139,818</td>
+</tr>
+<tr class="odd">
+<td>Total Revenue:</td>
+<td>$14.5 b.</td>
+</tr>
+<tr class="even">
+<td>Total Visits:</td>
+<td>730 m.</td>
+</tr>
+<tr class="odd">
+<td>Total Patrons:</td>
+<td>170 m.</td>
+</tr>
+<tr class="even">
+<td>Total Circulation:</td>
+<td>2.5 b.</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="burlingame" class="slide level2" data-background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg?raw=true">
 <h2><a href="https://www.burlingame.org/library/">Burlingame</a></h2>
@@ -460,11 +515,11 @@
 </section>
 <section id="e-books-versus-hard-copy" class="slide level2">
 <h2>E-books versus Hard Copy</h2>
-<p>insert graph</p>
-</section></section>
+
+<img data-src="img\us_library_collections.png" class="r-stretch"></section></section>
 <section>
-<section id="borrow-e-book" class="title-slide slide level1 center">
-<h1>Borrow E-book</h1>
+<section id="load-e-book" class="title-slide slide level1 center">
+<h1>Load E-book</h1>
 
 </section>
 <section id="steps" class="slide level2">
@@ -525,10 +580,21 @@
 </table>
 </div>
 </section>
-<section id="noise-a-flaw-in-human-judgment" class="slide level2">
-<h2>Noise: A Flaw in Human Judgment</h2>
-
-<img data-src="img\noise_page.jpeg" class="r-stretch"><aside class="notes">
+<section id="noise-a-flaw-in-human-judgmentkahneman2021" class="slide level2">
+<h2>Noise: A Flaw in Human Judgment<span class="citation" data-cites="kahneman2021"><a href="#/bibliography" role="doc-biblioref" onclick="">[1]</a></span></h2>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img data-src="img\medicine_is_noisy.jpg"></p>
+</div>
+</div>
+</div>
+<aside class="notes">
 <p>From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psychologist and economist notable for his work on the psychology of judgment and decision-making, as well as behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences (shared with Vernon L. Smith). His empirical findings challenge the assumption of human rationality prevailing in modern economic theory.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
@@ -543,8 +609,8 @@
       }</style></aside>
 </section></section>
 <section>
-<section id="export" class="title-slide slide level1 center">
-<h1>Export</h1>
+<section id="export-highlights" class="title-slide slide level1 center">
+<h1>Export Highlights</h1>
 
 </section>
 <section id="export-reading-data" class="slide level2">
@@ -563,23 +629,23 @@
 <h2>Highlights as CSV</h2>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a>noise <span class="ot">&lt;-</span> <span class="fu">read.csv</span>(</span>
-<span id="cb1-2"><a href="#cb1-2"></a>    <span class="at">file =</span> <span class="st">"data-raw/2023-07-30_noise_highlights.csv"</span>,</span>
+<span id="cb1-2"><a href="#cb1-2"></a>    <span class="at">file =</span> <span class="st">"./data-raw/2023-08-02_noise_highlights.csv"</span>,</span>
 <span id="cb1-3"><a href="#cb1-3"></a>    <span class="at">stringsAsFactors =</span> F</span>
 <span id="cb1-4"><a href="#cb1-4"></a>    )</span>
 <span id="cb1-5"><a href="#cb1-5"></a>noise[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>, <span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
-<pre><code>      timestamp                            chapter percent color
-1 7/22/23 20:45                 5. Measuring Error  14.70%  #FFB
-2 7/22/23 20:44                 5. Measuring Error  13.80%  #FFB
-3   2/9/23 2:20             Part VI: Optimal Noise  71.60%  #FFB
-4   2/6/23 1:14 19. Debiasing and Decision Hygiene  53.00%  #FFB
-5   2/6/23 1:13 19. Debiasing and Decision Hygiene  52.80%  #FFB
-                                                                                                                                                                                                   quote
-1 It is average error, which is the distance between the peak of the bell curve and the true value. In panel B, this average error has not changed from the original situation—it is still high, at 10%,
-2                                                                                                                                                                                                    For
-3                                                                                                                                     are seven major objections to efforts to reduce or eliminate noise
-4                                                                                                                               One such tool is a checklist of the biases they are attempting to detect
-5                                                                                                              Informal experiments suggest, however, that real progress can be made with this approach.</code></pre>
+<pre><code>                timestamp                            chapter percent color
+1   August 01, 2023 23:49   Introduction: Two Kinds of Error    2.4%  #FFB
+2     July 22, 2023 20:45                 5. Measuring Error   14.7%  #FFB
+3     July 22, 2023 20:44                 5. Measuring Error   13.8%  #FFB
+4 February 09, 2023 02:20             Part VI: Optimal Noise   71.6%  #FFB
+5 February 06, 2023 01:14 19. Debiasing and Decision Hygiene   53.0%  #FFB
+                                                                                                                                                                                                                                                                                                                                                                                                                               quote
+1 Faced with the same patient, different doctors make different judgments about whether patients have skin cancer, breast cancer, heart disease, tuberculosis, pneumonia, depression, and a host of other conditions. Noise is especially high in psychiatry, where subjective judgment is obviously important. However, considerable noise is also found in areas where it might not be expected, such as in the reading of X-rays.
+2                                                                                                                                                                                                                             It is average error, which is the distance between the peak of the bell curve and the true value. In panel B, this average error has not changed from the original situation—it is still high, at 10%,
+3                                                                                                                                                                                                                                                                                                                                                                                                                                For
+4                                                                                                                                                                                                                                                                                                                                                                 are seven major objections to efforts to reduce or eliminate noise
+5                                                                                                                                                                                                                                                                                                                                                           One such tool is a checklist of the biases they are attempting to detect</code></pre>
 </div>
 </div>
 </section>
@@ -589,12 +655,10 @@
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a><span class="fu">library</span>(tidyverse)</span>
 <span id="cb3-2"><a href="#cb3-2"></a>noise <span class="sc">|&gt;</span> </span>
 <span id="cb3-3"><a href="#cb3-3"></a>    <span class="fu">select</span>(quote) <span class="sc">|&gt;</span> </span>
-<span id="cb3-4"><a href="#cb3-4"></a>    <span class="fu">filter</span>(<span class="fu">grepl</span>(<span class="st">"MSE"</span>, quote))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb3-4"><a href="#cb3-4"></a>    <span class="fu">filter</span>(<span class="fu">grepl</span>(<span class="st">"pneumonia"</span>, quote))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
-<pre><code>                                                                                                                                                                                                                         quote
-1                                                                                           Because averaging does nothing to reduce bias, its effect on total error (MSE) depends on the proportions of bias and noise in it.
-2                                                                                                                     This is a key feature of MSE: squaring gives large errors a far greater weight than it gives small ones.
-3 Gauss proposed a rule for scoring the contribution of individual errors to overall error. His measure of overall error—called mean squared error (MSE)—is the average of the squares of the individual errors of measurement</code></pre>
+<pre><code>                                                                                                                                                                                                                                                                                                                                                                                                                               quote
+1 Faced with the same patient, different doctors make different judgments about whether patients have skin cancer, breast cancer, heart disease, tuberculosis, pneumonia, depression, and a host of other conditions. Noise is especially high in psychiatry, where subjective judgment is obviously important. However, considerable noise is also found in areas where it might not be expected, such as in the reading of X-rays.</code></pre>
 </div>
 </div>
 </section>
@@ -607,8 +671,8 @@
 <h2>Kindle</h2>
 </section></section>
 <section>
-<section id="reference-manager" class="title-slide slide level1 center">
-<h1>Reference Manager</h1>
+<section id="track-citations" class="title-slide slide level1 center">
+<h1>Track Citations</h1>
 
 </section>
 <section id="citation-reference-managers" class="slide level2">
@@ -661,12 +725,12 @@
 <section id="zotero-word-bibliography" class="slide level2">
 <h2>Zotero Word Bibliography</h2>
 
-<img data-src="img\zotero_word_bibliography.png" class="r-stretch"></section></section>
+<img data-src="img\zotero_word_bib.png" class="r-stretch"></section></section>
 <section>
-<section id="scientometrics" class="title-slide slide level1 center">
-<h1>Scientometrics</h1>
+<section id="judge-influence" class="title-slide slide level1 center">
+<h1>Judge Influence</h1>
 <aside class="notes">
-<p>is the quantiative study of science. It is the science of science. It is the study of how science develops and grows.</p>
+<p>Scientometrics is the quantiative study of science. It is the study of how science develops and grows.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -679,13 +743,13 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="select-findings" class="slide level2">
-<h2>Select Findings</h2>
+<section id="scientometrics---select-findings" class="slide level2">
+<h2>Scientometrics - Select Findings</h2>
 <ul>
 <li class="fragment">Being physically close to collaborators makes your work better.</li>
 <li class="fragment">Impactful papers can be measured by number of citations.</li>
 <li class="fragment">High-impact results are more likely to occur in teams.</li>
-<li class="fragment">Nicer people are more creative, successful, and likely to win Nobel prize.</li>
+<li class="fragment">Nicer people are more creative, successful, and likely to win the Nobel prize.<span class="citation" data-cites="arbesman2013"><a href="#/bibliography" role="doc-biblioref" onclick="">[2]</a></span></li>
 </ul>
 </section>
 <section id="kahneman" class="slide level2">
@@ -717,7 +781,6 @@
 <h2>Prospect Theory Timeline</h2>
 
 <img data-src="img\kahneman_prospect_theory_timeline.png" class="r-stretch quarto-figure-center"></section></section>
-<section>
 <section id="conclusion" class="title-slide slide level1 center">
 <h1>Conclusion</h1>
 <ul>
@@ -730,18 +793,38 @@
 <li class="fragment">Verify research.</li>
 </ul>
 </section>
-<section id="github" class="slide level2">
-<h2>GitHub</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><a href="https://github.com/RobWiederstein/libby"><img data-src="img/github_libby_repo.png"></a></p>
-</figure>
+
+<section id="bibliography" class="title-slide slide level1 smaller scrollable">
+<h1>Bibliography</h1>
+<div id="refs" class="references csl-bib-body" role="doc-bibliography">
+<div id="ref-kahneman2021" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[1] </div><div class="csl-right-inline">D. Kahneman, O. Sibony, and C. R. Sunstein, <em>Noise: <span>A</span> <span>Flaw</span> in <span>Human</span> <span>Judgment</span></em>. Little, Brown, 2021.</div>
 </div>
-<p><img src="/img/github-mark.svg" class="slide-logo"></p>
-<div class="footer footer-default">
-<p>rob</p>
+<div id="ref-arbesman2013" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[2] </div><div class="csl-right-inline">S. Arbesman, <em>The half-life of facts: <span>Why</span> everything we know has an expiration date</em>. Penguin, 2013.</div>
 </div>
-</section></section>
+<div id="ref-kahneman2012" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[3] </div><div class="csl-right-inline">D. Kahneman and A. Tversky, <span>“Prospect <span>Theory</span>: <span>An</span> <span>Analysis</span> of <span>Decision</span> <span>Under</span> <span>Risk</span>,”</span> in <em>Handbook of the <span>Fundamentals</span> of <span>Financial</span> <span>Decision</span> <span>Making</span></em>, in World <span>Scientific</span> <span>Handbook</span> in <span>Financial</span> <span>Economics</span> <span>Series</span>, no. Volume 4, vol. Volume 4. WORLD SCIENTIFIC, 2012, pp. 99–127. doi: <a href="https://doi.org/10.1142/9789814417358_0006">10.1142/9789814417358_0006</a>.</div>
+</div>
+<div id="ref-mueenahmed2011" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[4] </div><div class="csl-right-inline">K. Mueen Ahmed and B. E. A. Dhubaib, <span>“Zotero: <span>A</span> bibliographic assistant to researcher,”</span> <em>Journal of Pharmacology and Pharmacotherapeutics</em>, vol. 2, no. 4, pp. 304–305, 2011.</div>
+</div>
+<div id="ref-blummer2020" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[5] </div><div class="csl-right-inline">B. Blummer and J. M. Kenton, <span>“A <span>Systematic</span> <span>Review</span> of <span>E</span>-<span>Books</span> in <span>Academic</span> <span>Libraries</span>: <span>Access</span>, <span>Advantages</span>, and <span>Usage</span>,”</span> <em>New Review of Academic Librarianship</em>, vol. 26, no. 1, pp. 79–109, Jan. 2020, doi: <a href="https://doi.org/10.1080/13614533.2018.1524390">10.1080/13614533.2018.1524390</a>.</div>
+</div>
+<div id="ref-bruno2015" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[6] </div><div class="csl-right-inline">M. A. Bruno, E. A. Walker, and H. H. Abujudeh, <span>“Understanding and <span>Confronting</span> <span>Our</span> <span>Mistakes</span>: <span>The</span> <span>Epidemiology</span> of <span>Error</span> in <span>Radiology</span> and <span>Strategies</span> for <span>Error</span> <span>Reduction</span>,”</span> <em>RadioGraphics</em>, vol. 35, no. 6, pp. 1668–1676, Oct. 2015, doi: <a href="https://doi.org/10.1148/rg.2015150023">10.1148/rg.2015150023</a>.</div>
+</div>
+</div>
+</section>
+
+<section id="repository" class="title-slide slide level1 center">
+<h1>Repository</h1>
+
+<img data-src="img/github_libby_repo.png" class="r-stretch quarto-figure-center"><div class="footer footer-default">
+<p><a href="https://www.google.com">MIT License</a></p>
+</div>
+</section>
     </div>
   </div>
 
@@ -796,7 +879,7 @@
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: 'h.v',
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
