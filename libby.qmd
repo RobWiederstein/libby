@@ -239,7 +239,7 @@ Kahneman was ranked by [webometrics](https://www.webometrics.info/en/hlargerthan
 
 ## Research Rabbit
 
-![](img\research_rabbit.jpg)
+[![](img\research_rabbit.jpg)](https://www.researchrabbit.ai/)
 
 ## Prospect Theory Network Graph
 
