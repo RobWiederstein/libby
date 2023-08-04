@@ -44,7 +44,7 @@ format:
 | Total Patrons:     | 170 m.           |
 | Total Circulation: | 2.5 b.           |
 
-: Fruit Prices {.striped .hover}
+: {tbl-colwidths="[75,25]"}
 
 
 ## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg?raw=true"}
@@ -109,7 +109,10 @@ DC Central Library
 |<mark style="background: blue!important">Names (blue)</mark> | <mark style="background: blue!important">Characters (blue)</mark> |
 |<mark style="background: green!important">Terms (green)</mark>|<mark style="background: green!important">Dates (green)</mark>|
 |<mark style="background: pink!important">Follow up (pink)</mark>| |
+
 :::
+
+
 
 ## Noise: A Flaw in Human Judgment[@kahneman2021]
 
@@ -127,15 +130,15 @@ From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psyc
 
 ## Export Reading Data
 
-![](img\export_reading_data.jpeg)
+![](img\libby_export_1.jpg)
 
 ## Actions
 
-![](img\manage_library.jpeg)
+![](img\libby_export_2.jpg)
 
 ## Data Export
 
-![](img/libby_export_highlights.jpeg)
+![](img\libby_export_3.jpg)
 
 ## Highlights as CSV
 
@@ -161,9 +164,9 @@ noise |>
 
 ## Application
 
+<!--
 <iframe src="https://rob-wiederstein.shinyapps.io/my_books/" height="605" width="1200" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
-
-## Kindle
+-->
 
 # Track Citations
 
