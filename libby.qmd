@@ -44,6 +44,8 @@ format:
 | Total Patrons:     | 170 m.           |
 | Total Circulation: | 2.5 b.           |
 
+: Fruit Prices {.striped .hover}
+
 
 ## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg?raw=true"}
 
