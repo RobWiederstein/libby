@@ -126,6 +126,15 @@ DC Central Library
 From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psychologist and economist notable for his work on the psychology of judgment and decision-making, as well as behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences (shared with Vernon L. Smith). His empirical findings challenge the assumption of human rationality prevailing in modern economic theory.
 :::
 
+## A Noisy Example
+
+![Radiograph of the chest of a 4-year-old boy.[@bruno2015]](img/chest_xray.png){fig-align="left"}
+
+:::{.notes}
+"Example of a perceptual error. Anteroposterior radiograph of the chest of a 4-year-old boy. The presence of a swallowed coin within the esophagus was missed twice by a skilled pediatric radiologist. The clinical history provided did not mention the possibility of a swallowed coin."
+:::
+
+
 # Export Highlights
 
 ## Export Reading Data
