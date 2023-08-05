@@ -18,6 +18,10 @@ format:
     chalkboard: true
   html:
     embed-resources: true
+preload-iframes: true
+title-slide-attributes:
+  data-background-iframe: "parallax/dist/index.html"
+  data-background-opacity: "1"
 ---
 
 # Overview
@@ -44,8 +48,7 @@ format:
 | Total Patrons:     | 170 m.           |
 | Total Circulation: | 2.5 b.           |
 
-: {tbl-colwidths="[75,25]"}
-
+: U.S. Libraries[@arbesman2013] {tbl-colwidths="[75,25]"}
 
 ## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/bgame_library.jpg?raw=true"}
 
@@ -171,10 +174,10 @@ noise |>
     filter(grepl("pneumonia", quote))
 ```
 
-## Application
+## E-books App
 
 
-<iframe src="https://rob-wiederstein.shinyapps.io/my_books/" height="800" width="1200" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
+<iframe src="https://rob-wiederstein.shinyapps.io/my_books/" height="600" width="1200" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
 
 # Track Citations
 
