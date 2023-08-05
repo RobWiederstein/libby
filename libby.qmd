@@ -1,5 +1,6 @@
 ---
 title: "Research with E-books"
+subtitle: An Opinionated Workflow
 author: "Rob Wiederstein"
 bibliography: ebooks.bib
 csl: ieee.csl
@@ -48,7 +49,7 @@ title-slide-attributes:
 | Total Patrons:     | 170 m.           |
 | Total Circulation: | 2.5 b.           |
 
-: U.S. Libraries[@arbesman2013] {tbl-colwidths="[75,25]"}
+: U.S. Libraries[@u.s.censusbureau2020] {tbl-colwidths="[75,25]"}
 
 ## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/bgame_library.jpg?raw=true"}
 
@@ -117,11 +118,11 @@ DC Central Library
 
 
 
-## Noise: A Flaw in Human Judgment[@kahneman2021]
+## Highlighted Passage
 
 ::: {layout="[[-1], [1], [-1]]"}
 
-![](img\medicine_is_noisy.jpg)
+![Noise: A Flaw in Human Judgment[@kahneman2021]](img\medicine_is_noisy.jpg)
 
 :::
 
@@ -284,4 +285,3 @@ Kahneman was ranked by [webometrics](https://www.webometrics.info/en/hlargerthan
 # Repository
 
 [![](img/github_libby_repo.png)](https://github.com/RobWiederstein/libby)
-
