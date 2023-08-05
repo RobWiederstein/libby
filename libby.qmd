@@ -164,9 +164,8 @@ noise |>
 
 ## Application
 
-<!--
-<iframe src="https://rob-wiederstein.shinyapps.io/my_books/" height="605" width="1200" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
--->
+
+<iframe src="https://rob-wiederstein.shinyapps.io/my_books/" height="800" width="1200" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
 
 # Track Citations
 
