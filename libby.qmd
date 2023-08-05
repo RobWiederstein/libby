@@ -47,7 +47,7 @@ format:
 : {tbl-colwidths="[75,25]"}
 
 
-## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/img/bgame_library.jpg?raw=true"}
+## [Burlingame](https://www.burlingame.org/library/)  {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/bgame_library.jpg?raw=true"}
 
 
 ::: {.notes}
@@ -55,17 +55,17 @@ Burlingame Public Library
 :::
 
 
-##  [D.C.](https://www.dclibrary.org) {background-image="https://github.com/RobWiederstein/libby/blob/main/img/dc_central_library.jpg?raw=true"}
+##  [D.C.](https://www.dclibrary.org) {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/dc_central_library.jpg?raw=true"}
 
 :::{.notes}
 DC Central Library
 :::
 
-##  [L.A.](https://www.lapl.org) {background-image="https://github.com/RobWiederstein/libby/blob/main/img/la_library.jpg?raw=true"}
+##  [L.A.](https://www.lapl.org) {background-image=https://github.com/RobWiederstein/libby/blob/main/docs/img/la_library.jpg?raw=true"}
 
-## [Ypsilanti](https://www.ypsilibrary.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/ypsilanti_library.jpg?raw=true"}
+## [Ypsilanti](https://www.ypsilibrary.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/ypsilanti_library.jpg?raw=true"}
 
-## [Boston](https://www.bpl.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/img/boston_library.jpg?raw=true"}
+## [Boston](https://www.bpl.org/)    {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/boston_library.jpg?raw=true"}
 
 ## E-books versus Hard Copy
 
