@@ -94,7 +94,7 @@ DC Central Library
 
 ![](img\libby_reading_app.png)
 
-## Library Card {background-image="https://github.com/RobWiederstein/libby/blob/main/img/library_card.jpg?raw=true"}
+## Library Card {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/library_card.jpg?raw=true"}
 
 
 ## Highlighting Strategies
