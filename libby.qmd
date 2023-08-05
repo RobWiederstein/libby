@@ -85,7 +85,7 @@ DC Central Library
 ![](img\Libby_icon_+_wordmark_V.svg){.absolute width="250" top="150" left="100"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="50%".nonincremental}
 - Download Libby.
 - Enter library card number.
 - Borrow book.
