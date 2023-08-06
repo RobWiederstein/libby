@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of libby is to ...
+The libby repository holds a slide show on how to export e-book annotations in a tabular format.  By exporting in this format, a reader's annotations can be used in data analysis projects and aid in content recall.
 
 # Acknowledgements
 
