@@ -23,10 +23,6 @@ preload-iframes: true
 title-slide-attributes:
   data-background-iframe: "parallax/dist/index.html"
   data-background-opacity: "1"
-filters:
-   - lightbox
-lightbox: 
-  match: auto
 ---
 
 # Overview
@@ -136,7 +132,7 @@ From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psyc
 
 ## A Noisy Example
 
-![Radiograph of the chest of a 4-year-old boy.[@bruno2015]](img/chest_xray.png){.lightbox fig-align="left"}
+![Radiograph of the chest of a 4-year-old boy.[@bruno2015]](img/chest_xray.png){fig-align="left"}
 
 :::{.notes}
 "Example of a perceptual error. Anteroposterior radiograph of the chest of a 4-year-old boy. The presence of a swallowed coin within the esophagus was missed twice by a skilled pediatric radiologist. The clinical history provided did not mention the possibility of a swallowed coin."
