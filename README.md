@@ -1,10 +1,8 @@
+[![Alt Text](title_page.gif)](https://robwiederstein.github.io/libby/)
 
-# libby
+# Libby
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The libby repository holds a slide show on how to export e-book annotations in a tabular format.  By exporting in this format, a reader's annotations can be used in data analysis projects and aid in content recall.
+The libby repository holds a slide show on how to export e-book annotations in a tabular format.  By exporting in either csv or json, a reader's annotations can be used in data analysis projects and aid in content recall.
 
 # Acknowledgements
 
