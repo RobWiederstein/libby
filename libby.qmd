@@ -283,4 +283,4 @@ Kahneman was ranked by [webometrics](https://www.webometrics.info/en/hlargerthan
 
 # Repository
 
-[![](img/github_libby_repo.png)](https://github.com/RobWiederstein/libby)
+![[GitHub](https://github.com/RobWiederstein/libby)](img/github_libby_repo.png)
