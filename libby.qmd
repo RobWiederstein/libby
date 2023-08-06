@@ -96,7 +96,8 @@ DC Central Library
 
 ## Download Libby
 
-![](img\libby_reading_app.png)
+![[Libby.](https://www.overdrive.com/apps/libby)](img\libby_reading_app.png)
+
 
 ## Library Card {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/library_card.jpg?raw=true"}
 
@@ -115,8 +116,6 @@ DC Central Library
 |<mark style="background: pink!important">Follow up (pink)</mark>| |
 
 :::
-
-
 
 ## Highlighted Passage
 
