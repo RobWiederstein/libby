@@ -74,6 +74,7 @@ DC Central Library
 ## E-books versus Hard Copy
 
 ![](img\us_library_collections.png)
+[link](https://rob-wiederstein.shinyapps.io/dashboard_alx/)
 
 # Load E-book
 
@@ -94,6 +95,11 @@ DC Central Library
 
 ::::
 
+:::{.notes}
+Other readers include Kindle and Hoopla.
+With Libby, you may have to wait to borrow the book.
+:::
+
 ## Download Libby
 
 ![[Libby.](https://www.overdrive.com/apps/libby)](img\libby_reading_app.png)
@@ -101,6 +107,17 @@ DC Central Library
 
 ## Library Card {background-image="https://github.com/RobWiederstein/libby/blob/main/docs/img/library_card.jpg?raw=true"}
 
+
+:::{.notes}
+Libraries around the country that offer non-residential library cards. There is usually a fee. As of 2023:
+
+|      City      |  State   |   Price   |
+| :------------- | :------- | :-------- |
+| Fairfax County | Virginia | $27/year  |
+| Orange County  | Florida  | $175/year |
+| Brooklyn       | New York | $50/year  |
+
+:::
 
 ## Highlighting Strategies
 
@@ -136,7 +153,6 @@ From Wikipedia: Daniel Kahneman (born March 5, 1934) is an Israeli-American psyc
 :::{.notes}
 "Example of a perceptual error. Anteroposterior radiograph of the chest of a 4-year-old boy. The presence of a swallowed coin within the esophagus was missed twice by a skilled pediatric radiologist. The clinical history provided did not mention the possibility of a swallowed coin."
 :::
-
 
 # Export Highlights
 
@@ -193,9 +209,13 @@ noise |>
 
 ![](img\zotero_landing.png){.r-stretch}
 
+[link](https://www.zotero.org/download/)
+
 ## Zotero Connector
 
 ![](img\zotero_connector.jpeg){.r-stretch}
+
+[link](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc)
 
 ## Zotero Index
 
@@ -244,13 +264,18 @@ Scientometrics is the quantiative study of science. It is the study of how scien
 - High-impact results are more likely to occur in teams.
 - Nicer people are more creative, successful, and likely to win the Nobel prize.[@arbesman2013]
 
+:::{.notes}
+The h-index is an author-level metric that measures both the productivity and citation impact of the publications, initially used for an individual scientist or scholar. The h-index correlates with success indicators such as winning the Nobel Prize, being accepted for research fellowships and holding positions at top universities. i10-Index = the number of publications with at least 10 citations. Only used by google scholar.
+:::
+
 ## Kahneman
 
 ![](img\kahneman_google_scholar.png)
 
 ::: {.notes}
-The h-index is an author-level metric that measures both the productivity and citation impact of the publications, initially used for an individual scientist or scholar. The h-index correlates with success indicators such as winning the Nobel Prize, being accepted for research fellowships and holding positions at top universities. i10-Index = the number of publications with at least 10 citations. Only used by google scholar.
 Kahneman was ranked by [webometrics](https://www.webometrics.info/en/hlargerthan100) 675th of google scholars having a rank greater than 100 in 2020.
+
+Kahneman's early collaborator and friend was Amos Tversky.  If you'd like to learn more about their partnership, you can read Michael Lewis' book, [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593). "Their papers showed the ways in which the human mind erred, systematically, when forced to make judgments in uncertain situations."
 :::
 
 ## Research Rabbit

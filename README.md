@@ -22,3 +22,4 @@ The libby repository holds a slide show on how to export e-book annotations in a
 - [How To Use Zotero (A Complete Beginner's Guide)](https://www.youtube.com/watch?v=JG7Uq_JFDzE).
 - [Research Rabbit & Zotero Sync](https://www.youtube.com/watch?v=6vVcqwdpfK0) by Bryan Jenks.
 - [Zotero Obsidian Integration](https://www.youtube.com/watch?v=CGGeMrtyjBI).
+- [library access for everyone-9th Street](https://www.9thstreetbooks.com/how-to-get-a-library-card-online/)
